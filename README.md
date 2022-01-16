@@ -41,7 +41,7 @@ Vaccinated Travel Lane.
 ## 1. Non‐Indonesia Vaccination Verification (14 days)
 
 Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
-1. Submit Indonesian Identity Card (KTP) number (do not use Passport number), the KTP no will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
+1. Submit Indonesian Identity Card (KTP) number (do not use Passport number), the KTP number will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
 2. Submit Vaccination Certificate from https://www.notarise.gov.sg/.
 
 3. **_Wait around 14 days for approval_ -- [very slow](https://kominfo.go.id/content/detail/16505/apa-itu-industri-40-dan-bagaimana-indonesia-menyongsongnya/0/sorotan_media) -- Indonesian still using [Lontar](https://www.nowbali.co.id/lontar-balis-palm-leaf-manuscripts/).** 

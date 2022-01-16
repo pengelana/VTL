@@ -39,6 +39,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US)
 2. Register new account on the pedulilindungi app with Kartu Tanda Penduduk (KTP) no.
 3. Generate Indonesian "Vaccine Certificate" from Pedulilindungi.
+4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QRCODE will be check upon arrival in Indonesia before Immigration counter.
 
 
 ![image](https://user-images.githubusercontent.com/787301/149654479-af1a85fe-9245-43c4-96af-c3bf1699ed1b.png)
@@ -86,6 +87,8 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 2. List of MOH-Approved COVID-19 Test Providers:
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
 3. Print and bring Hardcopy of **NEGATIVE** PCR result.
+
+![Screen Shot 2022-01-16 at 7 51 31 PM](https://user-images.githubusercontent.com/787301/149658897-f96e1c47-d01f-4ca5-9e96-56fd20cda878.png)
 
 ## 7. Preparations before flight to Indonesia
 

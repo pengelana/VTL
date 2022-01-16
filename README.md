@@ -62,7 +62,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL.
 3. Wait for few minutes until the VTL approved.
 
-## 4. Airline Tickets (60 Mins)
+## 4. Airline Tickets (20 Mins)
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
 2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX!.

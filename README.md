@@ -116,11 +116,11 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 1. COVID-19 PCR test two days before flight to Singapore.
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
-3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on arrival PCR Test (S$125).
+3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
 4. Go to the Airport early, Bring hardcopy for Airline Check-in:
    1) **NEGATIVE** COVID-19 PCR test.
    2) Vaccination Certificate
-5. Check-in to the departure gate on-time.
+5. Check-in to the departure gate on time.
 6. When arrive to Singapore, use Automated Immigration Gates. Reduce contact with other people.
 7. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL_.
 8. Complete COVID-19 PCR at the airport and immediately go home with Taxi.

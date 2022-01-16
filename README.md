@@ -38,7 +38,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 ## 2. Pedulilindungi (60 mins)
 
 1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
-2. Register new account on the pedulilindungi app with Kartu Tanda Penduduk (KTP) no.
+2. Register new account on the pedulilindungi app with number of Kartu Tanda Penduduk (KTP).
 3. Generate Indonesian "Vaccine Certificate" from Pedulilindungi.
 4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QRCODE will be check upon arrival in Indonesia before Immigration counter.
 

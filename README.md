@@ -64,4 +64,22 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ![image](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
 
+## 5. Quarantine Hotel in Indonsia
+
+1. Quarantine Hotel: https://quarantinehotelsjakarta.com/
+
+`Every International arrival, starting on 29th November 2021, is required to present vaccine certificates (full doses) exception of Johnson and Johnson and Cansino Vaccine (1 time only), and a 3x24 hours negative COVID-19 PCR test result to enter Indonesia. Continuing with the requirement to undergo a mandatory of 6 nights and 7 days quarantine at the designated accommodation conducted by the Indonesian government at their own expenses. The requirement must be followed by the second PCR test on the 6th day at the designated accommodation.`
+
+2. Contact Hotel Manager via email or Whatsapp
+3. Submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via email
+4. Wait for confirmation from the Hotel 
+
+## 6. Pre-departure COVID-19 PCR Test
+
+1. Make appointment for Pre-departure PCR test two days before flight to Indonesia.
+2. List of MOH-Approved COVID-19 Test Providers:
+   https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
+3. Print and bring Hardcopy of **NEGATIVE** PCR result.
+
+
 

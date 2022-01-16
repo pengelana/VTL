@@ -10,23 +10,23 @@ Vaccinated Travel Lane Singapore to Indonesia
 1. Kartu Tanda Penduduk (KTP) -- Indonesian Identity Card.
 2. Indonesian Passport.
 3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTec/Moderna, or 3x doses of Sinovac).
-4. Vaccination Certificate from https://www.notarise.gov.sg/
+4. Vaccination Certificate from https://www.notarise.gov.sg/.
 5. Email address for Vaccination registration in Indonesia.
 
 ## 0.5 COST (BUDGET)
 
 1. Pre-departure COVID-19 PCR between S$125 to S$180.
 2. Flight Ticket with Return flight from Singapore to Indonesia between S$400 to S$600.
-3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/)
+3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/).
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$25 - S$200 (Express PCR test).
 5. on-Arrival PCR test at Changi S$125.
 6. Bring additional cash (IDR - Indonesian Rupiah). 
 
 ## 1. Non‐Indonesia Vaccination Verification (14 days)
 
-Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
+Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 1. Submit Indonesian Identity Card (KTP) number (do not use Passport number), the KTP no will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
-2. Submit Vaccination Certificate from https://www.notarise.gov.sg/
+2. Submit Vaccination Certificate from https://www.notarise.gov.sg/.
 
 3. **_Wait around 14 days for approval_ -- very slow -- Indonesian still using [Lontar](https://www.nowbali.co.id/lontar-balis-palm-leaf-manuscripts/).** 
 
@@ -37,7 +37,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 
 ## 2. Pedulilindungi (60 mins)
 
-1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US)
+1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
 2. Register new account on the pedulilindungi app with Kartu Tanda Penduduk (KTP) no.
 3. Generate Indonesian "Vaccine Certificate" from Pedulilindungi.
 4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QRCODE will be check upon arrival in Indonesia before Immigration counter.
@@ -57,8 +57,8 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 **_Singapore PR (Singapore Permanent Residents), continue to 4_**
 
-1. Ref: https://safetravel.ica.gov.sg/vtl/requirements-and-process
-2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL
+1. Ref: https://safetravel.ica.gov.sg/vtl/requirements-and-process.
+2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL.
 3. Wait for few minutes until the VTL approved.
 
 ## 4. Airline Tickets (60 Mins)
@@ -127,7 +127,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
 4. Go to the Airport early, Bring hardcopy for Airline Check-in:
    1. **NEGATIVE** COVID-19 PCR test.
-   2. Vaccination Certificate
+   2. Vaccination Certificate.
 
 ![Screen Shot 2022-01-16 at 8 02 50 PM](https://user-images.githubusercontent.com/787301/149659368-cd381577-0bff-4954-ade0-21134d7e6317.png)
 

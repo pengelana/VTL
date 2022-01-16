@@ -110,19 +110,24 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 ## 7. Preparations before flight to Indonesia (2 - 3 days)
 
 1. Change SGD to IDR in Singapore, there is no time to change after arrival in Indonesia.
-2. Bring snacks, a lot of snacks, coffee, tea, peanuts, whatever you like to eat/drinks during quarantine (room service is not cheap).
+2. Bring snacks, a lot of snacks, [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), anything else to eat/drinks during quarantine (room service is not cheap).
 3. Bring [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
 4. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
-5. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D)/Android TV/[Apple TV](https://www.apple.com/sg/tv-home/), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
-6. Additionally get [VPN account](https://nordvpn.com/risk-free-vpn/), some websites are blocked in Indonesia. 
 
 ![image](https://user-images.githubusercontent.com/787301/149657014-6f49fe45-b63a-4e48-ac78-064e9aefa29b.png)
 
-5. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330)
+5. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D)/Android TV/[Apple TV](https://www.apple.com/sg/tv-home/), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
+6. Additionally get [VPN account](https://nordvpn.com/risk-free-vpn/), some websites are blocked in Indonesia. 
+
+7. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330) with USB charger.
 
 ![image](https://user-images.githubusercontent.com/787301/149656981-1e7a3481-5a39-4e7a-ac87-e721280db7da.png)
 
-6. Additionally, consider to activate data roaming, WiFi access in the CGK (Jakarta) Airport is not friendly.
+8. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly.
+
+9. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) (optional).
+
+![image](https://user-images.githubusercontent.com/787301/149670674-349b9685-0e12-40a7-a477-1211b4340bb8.png)
 
 ## 8. Flight - Changi T3 & Arrive in Jakarta - CGK T3 (6 - 7 hours)
 

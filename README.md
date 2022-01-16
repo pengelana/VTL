@@ -135,7 +135,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 6. Check-in to the departure gate on time.
 7. When arrive to Singapore, use Automated Immigration Gates. Reduce contact with other people.
-8. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL_.
+8. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, YOU NEED TO ACKNOWLEDGE_.
 9. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
 10. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
 11. Welcome Home.

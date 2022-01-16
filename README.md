@@ -11,7 +11,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 
 1. Kartu Tanda Penduduk (KTP) -- Indonesian Identity Card
 2. Indonesian Passport
-3. Fully Vaccinated in Singapore with (Pfizer-BioNTech, Moderna, Sinovac etc)
+3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTec/Moderna, or 3x doses of Sinovac)
 4. Vaccination Certificate from https://www.notarise.gov.sg/
 5. Email address for Vaccination registration in Indonesia.
 

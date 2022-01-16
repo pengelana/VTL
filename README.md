@@ -91,7 +91,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ![Screen Shot 2022-01-16 at 7 51 31 PM](https://user-images.githubusercontent.com/787301/149658897-f96e1c47-d01f-4ca5-9e96-56fd20cda878.png)
 
-## 7. Preparations before flight to Indonesia
+## 7. Preparations before flight to Indonesia (2 - 3 days)
 
 1. Change SGD to IDR in Singapore, there is no time to change after arrival in Indonesia.
 2. Bring snacks, a lot of snacks, coffee, tea, peanuts, whatever you like to eat/drinks during quarantine (room service is not cheap).

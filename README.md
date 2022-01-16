@@ -79,5 +79,47 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
 3. Print and bring Hardcopy of **NEGATIVE** PCR result.
 
+## 7. Preparations before flight to Indonesia
+
+1. Bring snacks, a lot of snacks, coffee, tea, peanuts, whatever you like to eat/drinks during quarantine (room services is expensiv
+2. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
+
+![image](https://user-images.githubusercontent.com/787301/149657014-6f49fe45-b63a-4e48-ac78-064e9aefa29b.png)
+
+3. [Power extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330)
+
+![image](https://user-images.githubusercontent.com/787301/149656981-1e7a3481-5a39-4e7a-ac87-e721280db7da.png)
+
+
+## 8. Arrive in Jakarta
+
+1. Follow instruction for Vaccine check, arrival COVID-19 PCR, Immigration then baggage pickup.
+2. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
+
+## 9. Quarantine
+
+1. Hotel will provide 3 meals a day: Breakfast, Lunch and Dinner.
+2. Exit COVID-19 PCR, one day before end of quarantine.
+3. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (next day).
+4. Prepare for checkout.
+5. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
+
+## 10. Return to Singapore
+
+1. COVID-19 PCR test two days before flight to Singapore.
+2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
+3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on arrival PCR Test (S$125).
+4. Go to the Airport early, Bring hardcopy for Airline Check-in:
+   1) **NEGATIVE** COVID-19 PCR test.
+   2) Vaccination Certificate
+5. Check-in to the departure gate on-time.
+6. When arrive to Singapore, use Automated Immigration Gates. Reduce contact with other people.
+7. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status.
+8. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
+9. Isolate until COVID-19 PCR test result coming back **NEGATIVE**
+10. Welcome Home.
+  
+
+
 
 

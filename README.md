@@ -20,7 +20,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/).
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$25 - S$200 (Express PCR test).
 5. on-Arrival PCR test at Changi S$125.
-6. Bring additional cash (IDR - Indonesian Rupiah). 
+6. Bring additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very high, try to change the money before going to the Changi Airport.
 
 ## 1. Non‐Indonesia Vaccination Verification (14 days)
 
@@ -125,18 +125,19 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 1. COVID-19 PCR test two days before flight to Singapore.
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
 3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
-4. Go to the Airport early, bring hardcopy for Airline Check-in:
+4. Go to the Airport early (3.5 -4 hours)
+5. Bring hardcopy for Airline Check-in:
    1. **NEGATIVE** COVID-19 PCR test.
    2. Vaccination Certificate.
 
 ![Screen Shot 2022-01-16 at 8 02 50 PM](https://user-images.githubusercontent.com/787301/149659368-cd381577-0bff-4954-ade0-21134d7e6317.png)
 
-5. Check-in to the departure gate on time.
-6. When arrive to Singapore, use Automated Immigration Gates. Reduce contact with other people.
-7. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL_.
-8. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
-9. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
-10. Welcome Home.
+6. Check-in to the departure gate on time.
+7. When arrive to Singapore, use Automated Immigration Gates. Reduce contact with other people.
+8. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL_.
+9. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
+10. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
+11. Welcome Home.
   
 
 

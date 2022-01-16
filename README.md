@@ -13,6 +13,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
 5. Email address for Vaccination registration in Indonesia.
 6. Phone number for Pedulilindungi.
+7. Credit Card (Mastercard/Visa) will be prefer in Indonesia.
 
 ## 0.5 COST/BUDGET
 
@@ -119,14 +120,20 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 8. Arrive in Indonesia (CGK Terminal 3).
 9. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, then baggage pickup.
 10. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
+11. Once the COVID-19 PCR result received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
 
 ## 9. Quarantine (3 - 14 days)
 
-1. Hotel will provide 3 meals a day: Breakfast, Lunch and Dinner.
-2. Exit COVID-19 PCR, one day before end of quarantine.
-3. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (next day).
-4. Prepare for checkout.
-5. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
+1. Arrive at the designated Hotel & Check-in.
+2. Hotel staff will ask to pay all the bills in full.
+3. Prepaare to ask the Hotel to deposit some money ("open card" with Visa/Mastercard is preferred)  S$100 - S$150 will be enought, just in-case need to order food/drinks (room service), without deposit hotel staff will ask to pay each order from room services immediately.
+5. Hotel will provide 3 meals every day: Breakfast, Lunch and Dinner.
+6. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 pcs each day)
+7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before end of quarantine date. 
+8. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (next day).
+9. Prepare for checkout, packing all your belongings and leave the room.
+10. Checkout from the Hotel, close all the bills including room services etc.
+11. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
 
 ## 10. Return to Singapore (2 - 3 days)
 

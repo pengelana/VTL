@@ -96,7 +96,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 2. Contact Hotel via Email or Whatsapp.
 3. Submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
 4. Wait for confirmation from the Hotel.
-5. **NOTE:** Choose Hotel with International Accredited, near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
+5. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
 
 ## 6. Pre-departure COVID-19 PCR Test (2 days)
 

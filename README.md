@@ -165,7 +165,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 6. Check-in to the departure gate on time (CGK Terminal 3).
 7. Drink enough water.
 8. When arrive to Singapore (Changi Terminal 3), use Automated Immigration Gates. Reduce contact with other people.
-9. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, YOU NEED TO ACKNOWLEDGE_.
+9. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to inform about arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, THE EMAIL NEED TO BE **ACKNOWLEDGED**_.
 10. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
 11. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
 12. Welcome Home.

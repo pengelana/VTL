@@ -144,6 +144,9 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 9. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room.
 10. Checkout from the Hotel, close all the bills including room services etc.
 11. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
+12. Verification with the Pedulilindungi will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the Pedulilindungi mobile app.
+
+![photo_2022-01-16_23-11-26](https://user-images.githubusercontent.com/787301/149665901-373a67c7-b2bf-41ce-abf1-3421597e6d84.jpg)
 
 ## 10. Return to Singapore (2 - 3 days)
 

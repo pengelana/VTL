@@ -72,7 +72,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ![image](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
 
-## 5. Quarantine Hotel in Indonsia (2-3 days)
+## 5. Quarantine Hotel in Indonsia (2 - 3 days)
 
 1. Quarantine Hotel: https://quarantinehotelsjakarta.com/
 
@@ -107,12 +107,12 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 6. Additionally, consider to activate data roaming, WiFi access in the CGK (Jakarta) Airport is not friendly.
 
-## 8. Arrive in Jakarta (2-4 hours)
+## 8. Arrive in Jakarta (2 - 4 hours)
 
 1. Follow instruction for Vaccine check, arrival COVID-19 PCR, Immigration then baggage pickup.
 2. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
 
-## 9. Quarantine
+## 9. Quarantine (3 - 14 days)
 
 1. Hotel will provide 3 meals a day: Breakfast, Lunch and Dinner.
 2. Exit COVID-19 PCR, one day before end of quarantine.
@@ -120,7 +120,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 4. Prepare for checkout.
 5. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
 
-## 10. Return to Singapore (2-3 days)
+## 10. Return to Singapore (2 - 3 days)
 
 1. COVID-19 PCR test two days before flight to Singapore.
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.

@@ -3,7 +3,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 
 # Travelling from Singapore to Indonesia 
  
-**_Only for INDONESIAN (Singapore PR/LONG-TERM VISIT PASS)_**
+**_Only for INDONESIAN (SINGAPORE PR/LONG-TERM VISIT PASS)_**
 
 ## 0. Prerequisite
 

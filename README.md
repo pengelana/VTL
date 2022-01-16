@@ -43,7 +43,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL
 3. Wait for few minutes until the VTL approved.
 
-## 4. Plan for your trip.
+## 4. Airline Tickets.
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
 2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX!

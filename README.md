@@ -11,7 +11,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 
 1. Kartu Tanda Penduduk (KTP) -- Indonesian Identity Card
 2. Indonesian Passport
-3. Fully Vaccinated in Singapore with (Pfizer, Moderna, Sinovac etc)
+3. Fully Vaccinated in Singapore with (Pfizer-BioNTech, Moderna, Sinovac etc)
 4. Vaccination Certificate from https://www.notarise.gov.sg/
 5. Email address for Vaccination registration in Indonesia.
 
@@ -35,7 +35,9 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 3. Generate Indonesian "Vaccine Certificate" from Pedulilindungi.
 
 
-## 3. Apply VTL (Vaccinated Travel Lane) - ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
+## 3. Apply VTL (Vaccinated Travel Lane)
+
+ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 **_Singapore PR (Singapore Permanent Residents), continue to 4_**
 

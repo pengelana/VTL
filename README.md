@@ -1,5 +1,5 @@
 # VTL
-Vaccinated Travel Lane - Singapore to Indonesia.
+Vaccinated Travel Lane.
 
 **_Travelling to Indonesia during pandemic is not easy._**
 
@@ -18,7 +18,7 @@ Vaccinated Travel Lane - Singapore to Indonesia.
 2. Indonesian Passport.
 3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
-5. Email address for Vaccination registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card) (create [Gmail](https://mail.google.com/) and install [Gmail](https://mail.google.com/) mobile apps for [Apple](https://apps.apple.com/us/app/gmail-email-by-google/id422689480) or [Android](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US)).
+5. Email address for Vaccination registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card) (create free [Gmail](https://mail.google.com/) account and install [Gmail](https://mail.google.com/) mobile apps for [Apple](https://apps.apple.com/us/app/gmail-email-by-google/id422689480) or [Android](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US)).
 6. Phone number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
 ## 0.5 COST/BUDGET
@@ -118,7 +118,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ![image](https://user-images.githubusercontent.com/787301/149657014-6f49fe45-b63a-4e48-ac78-064e9aefa29b.png)
 
-5. [Power extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330)
+5. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330)
 
 ![image](https://user-images.githubusercontent.com/787301/149656981-1e7a3481-5a39-4e7a-ac87-e721280db7da.png)
 

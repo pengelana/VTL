@@ -19,7 +19,7 @@ Vaccinated Travel Lane - Singapore to Indonesia.
 3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
 5. Email address for Vaccination registration in Indonesia.
-6. Phone number for Pedulilindungi.
+6. Phone number for [Pedulilindungi](https://www.pedulilindungi.id/).
 
 ## 0.5 COST/BUDGET
 
@@ -51,11 +51,11 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 ![Screen Shot 2022-01-16 at 3 55 21 PM](https://user-images.githubusercontent.com/787301/149652065-ba6df3e4-576d-41a1-9fff-a0d26ac7839e.png)
 
 
-## 2. Pedulilindungi (60 mins)
+## 2. [Pedulilindungi](https://www.pedulilindungi.id/) (60 mins)
 
-1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
-2. Register new account on the pedulilindungi app with number of Kartu Tanda Penduduk (KTP).
-3. Generate Indonesian "Vaccine Certificate" from Pedulilindungi.
+1. Download [Pedulilindungi](https://www.pedulilindungi.id/) app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
+2. Register new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with number of Kartu Tanda Penduduk (KTP).
+3. Generate Indonesian "Vaccine Certificate" from [Pedulilindungi](https://www.pedulilindungi.id/).
 4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be check upon arrival in Indonesia before Immigration desk.
 
 
@@ -114,7 +114,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 3. Bring [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
 4. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
 5. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D)/Android TV/[Apple TV](https://www.apple.com/sg/tv-home/), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
-6. Additionally get VPN account, some websites are blocked in Indonesia. 
+6. Additionally get [VPN account](https://nordvpn.com/risk-free-vpn/), some websites are blocked in Indonesia. 
 
 ![image](https://user-images.githubusercontent.com/787301/149657014-6f49fe45-b63a-4e48-ac78-064e9aefa29b.png)
 
@@ -154,7 +154,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 10. Checkout from the Hotel, close all the bills including room services etc.
 11. **NOTE:** After quarantine if additional days required before continue journey with Domestic flight, try to avoid crowded place, stay and eat within the hotel area.
 12. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
-13. Verification with the Pedulilindungi will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the Pedulilindungi mobile app.
+13. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
 14. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight.
 15. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight.
 

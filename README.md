@@ -118,9 +118,9 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 ## 8. Flight - Changi T3 & Arrive in Jakarta - CGK T3 (6 - 7 hours)
 
 1. Arrive early to Changi Terminal 3, estimate 3-3.5 hours before flight.
-2. Expect to be in the queue, prepare all the hardcopy of Vaccine Certificate, **NEGATIVE** Pre-departure COVID-19 PCR test to be checked by Airline staff.
+2. Expect to be in the queue, prepare all the hardcopy of Vaccine Certificate, **NEGATIVE** Pre-departure COVID-19 PCR test will be check by Airline staff.
 3. Immigration officer will ask to remove mask to verified Passport photo and the passenger face.
-4. Arrive at the departure gate early.
+4. Arrive at the departure gate early, drink enough water.
 5. Once again airline staff will ask to remove mask to verified Passport photo and the passenger face.
 6. Boarding to the plane and ready to go, Bon Voyage.
 7. Flight will take between 1.5 - 2 hours.

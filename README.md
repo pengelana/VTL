@@ -146,7 +146,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 11. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
 12. Verification with the Pedulilindungi will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the Pedulilindungi mobile app.
 13. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight.
-14. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals can be use.
+14. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight.
 
 ![photo_2022-01-16_23-11-26](https://user-images.githubusercontent.com/787301/149665901-373a67c7-b2bf-41ce-abf1-3421597e6d84.jpg)
 

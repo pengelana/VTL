@@ -32,7 +32,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 
 1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US)
 2. Register new account on the pedulilindungi app with Kartu Tanda Penduduk (KTP) no.
-3. Generate Indonesian "Vaccine Certificate" from Pedulilindungi, vaccination status will be show after Vaccination status approved (1).
+3. Generate Indonesian "Vaccine Certificate" from Pedulilindungi.
 
 
 ## 3. Apply VTL (Vaccinated Travel Lane) - ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)

@@ -22,7 +22,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 5. on-Arrival PCR test at Changi S$125
 6. Bring additional cash (IDR - Indonesian Rupiah). 
 
-## 1. Non‐Indonesia Vaccination Verification 
+## 1. Non‐Indonesia Vaccination Verification (14 Days)
 
 Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 1. Submit Indonesian Identity Card (KTP) number (do not use Passport number), the KTP no will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
@@ -35,7 +35,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 ![Screen Shot 2022-01-16 at 3 55 21 PM](https://user-images.githubusercontent.com/787301/149652065-ba6df3e4-576d-41a1-9fff-a0d26ac7839e.png)
 
 
-## 2. Pedulilindungi
+## 2. Pedulilindungi (60 Mins)
 
 1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US)
 2. Register new account on the pedulilindungi app with Kartu Tanda Penduduk (KTP) no.
@@ -51,7 +51,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 ![image](https://user-images.githubusercontent.com/787301/149654728-77803cdc-2015-47ca-a4fc-9354e7074ce5.png)
 
 
-## 3. Apply VTL (Vaccinated Travel Lane)
+## 3. Apply VTL (Vaccinated Travel Lane) (60 Mins)
 
 ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
@@ -61,7 +61,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL
 3. Wait for few minutes until the VTL approved.
 
-## 4. Airline Tickets
+## 4. Airline Tickets (60 Mins)
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
 2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX!.
@@ -72,7 +72,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ![image](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
 
-## 5. Quarantine Hotel in Indonsia
+## 5. Quarantine Hotel in Indonsia (7-14 Days)
 
 1. Quarantine Hotel: https://quarantinehotelsjakarta.com/
 
@@ -82,7 +82,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 3. Submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
 4. Wait for confirmation from the Hotel.
 
-## 6. Pre-departure COVID-19 PCR Test
+## 6. Pre-departure COVID-19 PCR Test (2 Days)
 
 1. Make appointment for Pre-departure PCR test two days before flight to Indonesia.
 2. List of MOH-Approved COVID-19 Test Providers:

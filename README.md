@@ -22,7 +22,8 @@ Vaccinated Travel Lane Singapore to Indonesia
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. On-Arrival PCR test at Changi S$125.
 6. Bring additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very high, try to change money before going to the Changi Airport.
-7. Credit Card (Mastercard/Visa) will be prefer in Indonesia.
+7. **NOTE:** Credit Card (Mastercard/Visa) will be prefer in Indonesia for Hotel Payment.
+8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia.
 
 ## 1. Non‐Indonesia Vaccination Verification (14 days)
 

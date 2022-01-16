@@ -20,6 +20,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/)
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$25 - S$200 (Express PCR test).
 5. on-Arrival PCR test at Changi S$125
+6. Bring additional cash (IDR - Indonesian Rupiah). 
 
 ## 1. Non‐Indonesia Vaccination Verification 
 
@@ -92,16 +93,18 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ## 7. Preparations before flight to Indonesia
 
-1. Bring snacks, a lot of snacks, coffee, tea, peanuts, whatever you like to eat/drinks during quarantine (room service is not cheap).
-2. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
-3. Additionally, bring chromecast/android tv/apple tv, vpn, travel router etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
+1. Change SGD to IDR in Singapore, there is no time to change after arrival in Indonesia.
+2. Bring snacks, a lot of snacks, coffee, tea, peanuts, whatever you like to eat/drinks during quarantine (room service is not cheap).
+3. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
+4. Additionally, bring chromecast/android tv/apple tv, vpn, travel router etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
 
 ![image](https://user-images.githubusercontent.com/787301/149657014-6f49fe45-b63a-4e48-ac78-064e9aefa29b.png)
 
-3. [Power extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330)
+5. [Power extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330)
 
 ![image](https://user-images.githubusercontent.com/787301/149656981-1e7a3481-5a39-4e7a-ac87-e721280db7da.png)
 
+6. Additionally, consider to activate data roaming, WiFi access in the CGK (Jakarta) Airport is not friendly.
 
 ## 8. Arrive in Jakarta
 

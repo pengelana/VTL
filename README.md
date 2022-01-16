@@ -46,7 +46,6 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 
 ![image](https://user-images.githubusercontent.com/787301/149654479-af1a85fe-9245-43c4-96af-c3bf1699ed1b.png)
 
-
 ---
 
 ![image](https://user-images.githubusercontent.com/787301/149654728-77803cdc-2015-47ca-a4fc-9354e7074ce5.png)

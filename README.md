@@ -89,7 +89,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ## 7. Preparations before flight to Indonesia
 
-1. Bring snacks, a lot of snacks, coffee, tea, peanuts, whatever you like to eat/drinks during quarantine (room services is expensiv
+1. Bring snacks, a lot of snacks, coffee, tea, peanuts, whatever you like to eat/drinks during quarantine (room service is not cheap).
 2. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
 
 ![image](https://user-images.githubusercontent.com/787301/149657014-6f49fe45-b63a-4e48-ac78-064e9aefa29b.png)

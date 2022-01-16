@@ -94,6 +94,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 1. Bring snacks, a lot of snacks, coffee, tea, peanuts, whatever you like to eat/drinks during quarantine (room service is not cheap).
 2. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
+3. Additionally, bring chromecast/android tv/apple tv, vpn, travel router etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
 
 ![image](https://user-images.githubusercontent.com/787301/149657014-6f49fe45-b63a-4e48-ac78-064e9aefa29b.png)
 
@@ -123,6 +124,9 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 4. Go to the Airport early, Bring hardcopy for Airline Check-in:
    1. **NEGATIVE** COVID-19 PCR test.
    2. Vaccination Certificate
+
+![Screen Shot 2022-01-16 at 8 02 50 PM](https://user-images.githubusercontent.com/787301/149659368-cd381577-0bff-4954-ade0-21134d7e6317.png)
+
 5. Check-in to the departure gate on time.
 6. When arrive to Singapore, use Automated Immigration Gates. Reduce contact with other people.
 7. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL_.

@@ -25,6 +25,12 @@ Vaccinated Travel Lane Singapore to Indonesia
 7. **NOTE:** Credit Card (Mastercard/Visa) will be prefer in Indonesia for Hotel Payment.
 8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia.
 
+--- 
+
+**FOLLOW BELOW STEPS SEQUENTIALLY, DO NOT JUMP. EACH STEP DEPENDS ON PREVIOUS STEP**
+
+---
+
 ## 1. Non‐Indonesia Vaccination Verification (14 days)
 
 Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.

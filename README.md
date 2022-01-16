@@ -87,7 +87,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 1. Make appointment for Pre-departure PCR test two days before flight to Indonesia.
 2. List of MOH-Approved COVID-19 Test Providers:
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
-3. Print and bring Hardcopy of **NEGATIVE** PCR result.
+3. Print and bring hardcopy of **NEGATIVE** PCR result.
 
 ![Screen Shot 2022-01-16 at 7 51 31 PM](https://user-images.githubusercontent.com/787301/149658897-f96e1c47-d01f-4ca5-9e96-56fd20cda878.png)
 
@@ -125,7 +125,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 1. COVID-19 PCR test two days before flight to Singapore.
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
 3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
-4. Go to the Airport early, Bring hardcopy for Airline Check-in:
+4. Go to the Airport early, bring hardcopy for Airline Check-in:
    1. **NEGATIVE** COVID-19 PCR test.
    2. Vaccination Certificate.
 

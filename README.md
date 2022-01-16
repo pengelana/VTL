@@ -115,7 +115,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 4. Arrive at the departure gate early.
 5. Once again airline staff will ask to remove mask to verified Passport photo and the passenger face.
 6. Boarding to the plane and ready to go, Bon Voyage.
-7. Flight will take between 1.30 - 2 hours.
+7. Flight will take between 1.5 - 2 hours.
 8. Arrive in Indonesia (Jakarta Terminal 3).
 9. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, then baggage pickup.
 10. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.

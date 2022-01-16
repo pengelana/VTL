@@ -20,7 +20,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 2. Flight Ticket with Return flight from Singapore to Indonesia between S$400 to S$600.
 3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/).
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
-5. on-Arrival PCR test at Changi S$125.
+5. On-Arrival PCR test at Changi S$125.
 6. Bring additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very high, try to change money before going to the Changi Airport.
 
 ## 1. Non‐Indonesia Vaccination Verification (14 days)

@@ -1,5 +1,12 @@
 # VTL
-Vaccinated Travel Lane Singapore to Indonesia
+Vaccinated Travel Lane - Singapore to Indonesia.
+
+**_Travelling to Indonesia during pandemic is not easy._**
+
+**_"It’s better to be prepared than to get ready"_**
+
+
+
 
 # Travelling from Singapore to Indonesia 
  

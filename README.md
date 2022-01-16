@@ -1,5 +1,4 @@
-# VTL
-Vaccinated Travel Lane.
+# VTL, Vaccinated Travel Lane.
 
 **_Travelling to Indonesia during pandemic is not easy._**
 

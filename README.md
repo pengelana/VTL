@@ -22,7 +22,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 5. on-Arrival PCR test at Changi S$125
 6. Bring additional cash (IDR - Indonesian Rupiah). 
 
-## 1. Non‐Indonesia Vaccination Verification (14 Days)
+## 1. Non‐Indonesia Vaccination Verification (14 days)
 
 Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 1. Submit Indonesian Identity Card (KTP) number (do not use Passport number), the KTP no will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
@@ -35,7 +35,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 ![Screen Shot 2022-01-16 at 3 55 21 PM](https://user-images.githubusercontent.com/787301/149652065-ba6df3e4-576d-41a1-9fff-a0d26ac7839e.png)
 
 
-## 2. Pedulilindungi (60 Mins)
+## 2. Pedulilindungi (60 mins)
 
 1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US)
 2. Register new account on the pedulilindungi app with Kartu Tanda Penduduk (KTP) no.
@@ -51,7 +51,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/
 ![image](https://user-images.githubusercontent.com/787301/149654728-77803cdc-2015-47ca-a4fc-9354e7074ce5.png)
 
 
-## 3. Apply VTL (Vaccinated Travel Lane) (60 Mins)
+## 3. Apply VTL (Vaccinated Travel Lane) (60 mins)
 
 ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
@@ -72,7 +72,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ![image](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
 
-## 5. Quarantine Hotel in Indonsia (7-14 Days)
+## 5. Quarantine Hotel in Indonsia (2-3 days)
 
 1. Quarantine Hotel: https://quarantinehotelsjakarta.com/
 
@@ -82,7 +82,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 3. Submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
 4. Wait for confirmation from the Hotel.
 
-## 6. Pre-departure COVID-19 PCR Test (2 Days)
+## 6. Pre-departure COVID-19 PCR Test (2 days)
 
 1. Make appointment for Pre-departure PCR test two days before flight to Indonesia.
 2. List of MOH-Approved COVID-19 Test Providers:
@@ -107,7 +107,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 6. Additionally, consider to activate data roaming, WiFi access in the CGK (Jakarta) Airport is not friendly.
 
-## 8. Arrive in Jakarta
+## 8. Arrive in Jakarta (2-4 hours)
 
 1. Follow instruction for Vaccine check, arrival COVID-19 PCR, Immigration then baggage pickup.
 2. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
@@ -120,7 +120,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 4. Prepare for checkout.
 5. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
 
-## 10. Return to Singapore
+## 10. Return to Singapore (2-3 days)
 
 1. COVID-19 PCR test two days before flight to Singapore.
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
@@ -135,7 +135,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 6. When arrive to Singapore, use Automated Immigration Gates. Reduce contact with other people.
 7. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL_.
 8. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
-9. Isolate until COVID-19 PCR test result coming back **NEGATIVE**
+9. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
 10. Welcome Home.
   
 

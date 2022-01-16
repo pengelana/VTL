@@ -168,8 +168,11 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 9. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to inform about arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, THE EMAIL NEED TO BE **ACKNOWLEDGED**_.
 10. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
 11. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
-12. Welcome Home.
-  
+
+![Screen Shot 2022-01-16 at 11 31 15 PM](https://user-images.githubusercontent.com/787301/149666591-9ca6e5e3-8441-430c-9611-3ec22d6294e3.png)
+
+# Welcome Home.
+## END
 
 
 

@@ -49,7 +49,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 1. Download pedulilindungi app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
 2. Register new account on the pedulilindungi app with number of Kartu Tanda Penduduk (KTP).
 3. Generate Indonesian "Vaccine Certificate" from Pedulilindungi.
-4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be check upon arrival in Indonesia before Immigration counter.
+4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be check upon arrival in Indonesia before Immigration desk.
 
 
 ![image](https://user-images.githubusercontent.com/787301/149654479-af1a85fe-9245-43c4-96af-c3bf1699ed1b.png)
@@ -89,6 +89,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 2. Contact Hotel via Email or Whatsapp.
 3. Submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
 4. Wait for confirmation from the Hotel.
+5. **NOTE:** Choose Hotel with International Accredited, near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
 
 ## 6. Pre-departure COVID-19 PCR Test (2 days)
 
@@ -143,10 +144,11 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 8. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m next day).
 9. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room.
 10. Checkout from the Hotel, close all the bills including room services etc.
-11. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
-12. Verification with the Pedulilindungi will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the Pedulilindungi mobile app.
-13. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight.
-14. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight.
+11. **NOTE:** After quarantine if additional days required before continue journey with Domestic flight, try to avoid crowded place, stay and eat within the hotel area.
+12. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
+13. Verification with the Pedulilindungi will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the Pedulilindungi mobile app.
+14. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight.
+15. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight.
 
 ![photo_2022-01-16_23-11-26](https://user-images.githubusercontent.com/787301/149665901-373a67c7-b2bf-41ce-abf1-3421597e6d84.jpg)
 

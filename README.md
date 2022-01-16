@@ -7,9 +7,9 @@ Vaccinated Travel Lane Singapore to Indonesia
 
 ## 0. Prerequisite
 
-1. Kartu Tanda Penduduk (KTP) -- Indonesian Identity Card
-2. Indonesian Passport
-3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTec/Moderna, or 3x doses of Sinovac)
+1. Kartu Tanda Penduduk (KTP) -- Indonesian Identity Card.
+2. Indonesian Passport.
+3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTec/Moderna, or 3x doses of Sinovac).
 4. Vaccination Certificate from https://www.notarise.gov.sg/
 5. Email address for Vaccination registration in Indonesia.
 
@@ -19,7 +19,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 2. Flight Ticket with Return flight from Singapore to Indonesia between S$400 to S$600.
 3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/)
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$25 - S$200 (Express PCR test).
-5. on-Arrival PCR test at Changi S$125
+5. on-Arrival PCR test at Changi S$125.
 6. Bring additional cash (IDR - Indonesian Rupiah). 
 
 ## 1. Non‐Indonesia Vaccination Verification (14 days)

@@ -54,7 +54,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 ## 4. Airline Tickets
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
-2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX!
+2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX!.
 3. [TRAVELOKA](https://www.traveloka.com/) IS NOT [RECOMMENDED](https://www.traveloka.com/en-sg/promotion/vtlflight).
 
 
@@ -68,9 +68,9 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 `Every International arrival, starting on 29th November 2021, is required to present vaccine certificates (full doses) exception of Johnson and Johnson and Cansino Vaccine (1 time only), and a 3x24 hours negative COVID-19 PCR test result to enter Indonesia. Continuing with the requirement to undergo a mandatory of 6 nights and 7 days quarantine at the designated accommodation conducted by the Indonesian government at their own expenses. The requirement must be followed by the second PCR test on the 6th day at the designated accommodation.`
 
-2. Contact Hotel Manager via email or Whatsapp
-3. Submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via email
-4. Wait for confirmation from the Hotel 
+2. Contact Hotel via Email or Whatsapp.
+3. Submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
+4. Wait for confirmation from the Hotel.
 
 ## 6. Pre-departure COVID-19 PCR Test
 

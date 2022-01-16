@@ -152,10 +152,10 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 ## 10. Return to Singapore (2 - 3 days)
 
-1. COVID-19 PCR test two days before flight to Singapore.
+1. **NEGATIVE** COVID-19 PCR test two days before arrival to Singapore.
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
 3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
-4. Go to the Airport early (3.5 -4 hours)
+4. Go to the Airport early (3.5 - 4 hours)
 5. Bring hardcopy for Airline Check-in:
    1. **NEGATIVE** COVID-19 PCR test.
    2. Vaccination Certificate.
@@ -163,11 +163,12 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 ![Screen Shot 2022-01-16 at 8 02 50 PM](https://user-images.githubusercontent.com/787301/149659368-cd381577-0bff-4954-ade0-21134d7e6317.png)
 
 6. Check-in to the departure gate on time (CGK Terminal 3).
-7. When arrive to Singapore (Changi Terminal 3), use Automated Immigration Gates. Reduce contact with other people.
-8. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, YOU NEED TO ACKNOWLEDGE_.
-9. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
-10. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
-11. Welcome Home.
+7. Drink enough water.
+8. When arrive to Singapore (Changi Terminal 3), use Automated Immigration Gates. Reduce contact with other people.
+9. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to you to inform your arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, YOU NEED TO ACKNOWLEDGE_.
+10. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
+11. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
+12. Welcome Home.
   
 
 

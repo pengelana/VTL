@@ -13,7 +13,6 @@ Vaccinated Travel Lane Singapore to Indonesia
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
 5. Email address for Vaccination registration in Indonesia.
 6. Phone number for Pedulilindungi.
-7. Credit Card (Mastercard/Visa) will be prefer in Indonesia.
 
 ## 0.5 COST/BUDGET
 
@@ -23,6 +22,7 @@ Vaccinated Travel Lane Singapore to Indonesia
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. On-Arrival PCR test at Changi S$125.
 6. Bring additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very high, try to change money before going to the Changi Airport.
+7. Credit Card (Mastercard/Visa) will be prefer in Indonesia.
 
 ## 1. Non‐Indonesia Vaccination Verification (14 days)
 

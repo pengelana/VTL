@@ -122,12 +122,15 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 3. Immigration officer will ask to remove mask to verified Passport photo and the passenger face.
 4. Arrive at the departure gate early, drink enough water.
 5. Once again airline staff will ask to remove mask to verified Passport photo and the passenger face.
-6. Boarding to the plane and ready to go, Bon Voyage.
-7. Flight will take between 1.5 - 2 hours.
-8. Arrive in Indonesia (CGK Terminal 3).
-9. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, then baggage pickup.
-10. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
-11. Once the COVID-19 PCR result received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
+6. **NOTE:** It is better not to wear N95 mask before final check, otherwise will be difficult to remove mask and wear it again.
+7. **NOTE:** Wear N95 mask after Final check by Airline staff.
+8. Boarding to the plane and ready to go, Bon Voyage!
+9. Flight will take between 1.5 - 2 hours.
+10. Arrive in Indonesia (CGK Terminal 3).
+11. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, then baggage pickup.
+12. Upon arrival, for verification each person will be ask to remove mask again to compare with Passport photo.
+13. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
+14. Once the COVID-19 PCR result received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
 
 ## 9. Quarantine (3 - 14 days)
 
@@ -137,8 +140,8 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 5. Hotel will provide 3 meals every day: Breakfast, Lunch and Dinner.
 6. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 pcs each day)
 7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before end of quarantine date. 
-8. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (next day).
-9. Prepare for checkout, packing all your belongings and leave the room.
+8. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m next day).
+9. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room.
 10. Checkout from the Hotel, close all the bills including room services etc.
 11. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
 

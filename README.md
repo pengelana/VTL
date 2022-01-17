@@ -127,7 +127,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 ## 7. Preparations before flight to Indonesia (2 - 3 days) 📝
 
 1. Extra [Medical Mask](https://www.fairprice.com.sg/search?query=mask) & [N95](https://www.fairprice.com.sg/search?query=n95).
-2. [Antigen Rapid Self Test (ART) Kit](https://www.fairprice.com.sg/category/antigen-rapid-test) (min 5 pcs). 
+2. [Antigen Rapid Self Test (ART) Kit](https://www.fairprice.com.sg/category/antigen-rapid-test).
 
 ![ART](https://user-images.githubusercontent.com/787301/149803325-1ba83b30-423f-45eb-a767-99136d53cb31.png)
 
@@ -135,7 +135,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 4. [Snacks](https://www.fairprice.com.sg/search?query=snack), a lot of [snacks](https://www.fairprice.com.sg/search?query=snack), [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), [biscuits](https://www.fairprice.com.sg/search?query=biscuits), anything else to eat/drink during quarantine (room service is not cheap).
 
 5. [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
-6. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
+6. Power Adaptor Plug from [3-pin (Singapore/UK) to European 2-pin](https://shopee.sg/Adaptor-Plug-Adapter-3-Pin-UK-To-EU-Euro-Europe-European-2-Pin-Portable-For-Travel-i.271696626.5245031447?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP6Tpz-7_yLgUbvaviD1jCYSovcdh8AB-c8_FNw2cnrPhsCGITublrRoChyMQAvD_BwE).
 
 ![3-pin](https://user-images.githubusercontent.com/787301/149704432-18f49f39-f87b-4460-a61b-94cb5267b949.png)
 

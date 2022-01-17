@@ -1,13 +1,13 @@
 # [VTL](https://safetravel.ica.gov.sg/vtl/requirements-and-process), Vaccinated Travel Lane ✈️ 
 
-**_Travelling to Indonesia during pandemic is not easy._**
+**_TRAVELLING TO INDONESIA DURING PANDEMIC IS NOT EASY._**
 
 **_"It’s better to be prepared than to get ready"_**
 
 
 # Travelling from Singapore to Indonesia 🛄
  
-**_ONLY FOR INDONESIAN (SINGAPORE PERMANENT RESIDENT/LONG-TERM VISIT PASS)_** ⚠️
+**_ONLY FOR INDONESIAN (SINGAPORE PERMANENT RESIDENT/[LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits))_** ⚠️
 
 
 ## 0. Prerequisite 💡
@@ -27,7 +27,7 @@
 7. Phone number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
 
-## 0.5 COST/BUDGET 💸
+## 0.5 Budget 💸
 
 1. Pre-departure COVID-19 PCR between S$125 to S$180.
 2. Flight Ticket with return flight from Singapore to Indonesia between S$400 to S$600.

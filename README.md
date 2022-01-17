@@ -5,9 +5,9 @@
 **_"It’s better to be prepared than to get ready"_**
 
 
-# Travelling from Singapore to Indonesia 
+# Travelling from Singapore to Indonesia 🛄
  
-**_ONLY FOR INDONESIAN (SINGAPORE PERMANENT RESIDENT/LONG-TERM VISIT PASS)_**
+**_ONLY FOR INDONESIAN (SINGAPORE PERMANENT RESIDENT/LONG-TERM VISIT PASS)_** ⚠️
 
 
 ## 0. Prerequisite 💡

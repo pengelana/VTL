@@ -163,14 +163,20 @@ Every International arrival, starting on 29th November 2021, is required to pres
 7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before end of quarantine date. 
 8. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m next day).
 9. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room.
-10. Checkout from the Hotel, close all the bills including room services etc.
-11. **NOTE:** After quarantine if additional days required before continue journey with Domestic flight, try to avoid crowded place, stay and eat within the hotel area.
-12. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
-13. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
-14. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight.
-15. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight.
+10. Checkout from the Hotel, close all the bills including room services etc. 
 
-![image](https://user-images.githubusercontent.com/787301/149744789-1d06ba94-8d9f-47b9-b41a-c97e66351f29.png)
+![Release Letter](https://user-images.githubusercontent.com/787301/149757385-ff8558e2-1a81-4eed-95f5-0f7de96214a5.png)
+
+
+12. **NOTE:** Try to avoid crowded place, stay and eat within the hotel area.
+13. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
+14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
+15. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight.
+16. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight.
+
+![Antigen Manuhua](https://user-images.githubusercontent.com/787301/149759600-594be6e3-b7ab-4dbe-afa9-0667e13d5fa8.png)
+
+![Pedulilindungi Airport](https://user-images.githubusercontent.com/787301/149744789-1d06ba94-8d9f-47b9-b41a-c97e66351f29.png)
 
 ## 10. Return to Singapore (2 - 3 days)
 

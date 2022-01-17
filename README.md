@@ -170,7 +170,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 14. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight.
 15. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight.
 
-![image](https://user-images.githubusercontent.com/787301/149736549-7898ae7e-dced-4201-8da9-92a8a138da00.png)
+![image](https://user-images.githubusercontent.com/787301/149744789-1d06ba94-8d9f-47b9-b41a-c97e66351f29.png)
 
 ## 10. Return to Singapore (2 - 3 days)
 

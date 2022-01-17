@@ -16,8 +16,11 @@
 2. Indonesian Passport.
 3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
-5. Email address for Vaccination registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card) (create free [Gmail](https://mail.google.com/) account and install [Gmail](https://mail.google.com/) mobile apps for [Apple](https://apps.apple.com/us/app/gmail-email-by-google/id422689480) or [Android](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US)).
-6. Phone number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+
+![MOH VC](https://user-images.githubusercontent.com/787301/149710012-971100e2-ea54-4f17-9578-2b30d9a15abf.png)
+
+6. Email address for Vaccination registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card) (create free [Gmail](https://mail.google.com/) account and install [Gmail](https://mail.google.com/) mobile apps for [Apple](https://apps.apple.com/us/app/gmail-email-by-google/id422689480) or [Android](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US)).
+7. Phone number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
 
 ## 0.5 COST/BUDGET

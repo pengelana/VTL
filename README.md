@@ -127,11 +127,11 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 8. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly.
 
-![image](https://user-images.githubusercontent.com/787301/149671367-17b36dc3-7115-4854-8c82-827216d8eabb.png)
+![CGK WiFi](https://user-images.githubusercontent.com/787301/149671367-17b36dc3-7115-4854-8c82-827216d8eabb.png)
 
 9. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (optional).
 
-![image](https://user-images.githubusercontent.com/787301/149670674-349b9685-0e12-40a7-a477-1211b4340bb8.png)
+![Fast Charger](https://user-images.githubusercontent.com/787301/149707947-84e21abe-4a7a-492e-932d-f0ccaecbaa1d.png)
 
 ## 8. Flight - Changi T3 & Arrive in Jakarta - CGK T3 (6 - 7 hours)
 
@@ -179,7 +179,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
    1. **NEGATIVE** COVID-19 PCR test.
    2. Vaccination Certificate.
 
-![Screen Shot 2022-01-16 at 8 02 50 PM](https://user-images.githubusercontent.com/787301/149659368-cd381577-0bff-4954-ade0-21134d7e6317.png)
+![PCR Express](https://user-images.githubusercontent.com/787301/149708675-423e8e48-7bcf-4779-b86e-399f4dd9428b.png)
 
 6. Check-in to the departure gate on time (CGK Terminal 3).
 7. Drink enough water.
@@ -188,7 +188,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 10. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
 11. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
 
-![Screen Shot 2022-01-16 at 11 31 15 PM](https://user-images.githubusercontent.com/787301/149666591-9ca6e5e3-8441-430c-9611-3ec22d6294e3.png)
+![PCR HH](https://user-images.githubusercontent.com/787301/149708903-e649c033-c28f-472b-979e-abad22b69b5b.png)
 
 # Welcome Home.
 ## END

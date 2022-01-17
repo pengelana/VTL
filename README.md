@@ -7,7 +7,7 @@
 
 # Travelling from Singapore to Indonesia 
  
-**_Only for INDONESIAN (SINGAPORE PR/LONG-TERM VISIT PASS)_**
+**_ONLY FOR INDONESIAN (SINGAPORE PERMANENT RESIDENT/LONG-TERM VISIT PASS)_**
 
 
 ## 0. Prerequisite
@@ -69,7 +69,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 
 ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
-**_Singapore PR (Singapore Permanent Residents), continue to 4_**
+**_Singapore PR (Singapore Permanent Resident), continue to 4_**
 
 1. Ref: https://safetravel.ica.gov.sg/vtl/requirements-and-process.
 2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL.

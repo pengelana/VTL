@@ -17,6 +17,10 @@
 3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
 
+![notarise_1](https://user-images.githubusercontent.com/787301/149773733-db22e674-5b4d-498f-a7c0-3acd2af72934.png)
+
+![notarise_2](https://user-images.githubusercontent.com/787301/149774747-d4ba008b-d10a-4b7e-ac34-70eef80ca7fb.png)
+
 ![MOH VC](https://user-images.githubusercontent.com/787301/149710012-971100e2-ea54-4f17-9578-2b30d9a15abf.png)
 
 6. Email address for Vaccination Registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card) (create free [Gmail](https://mail.google.com/) account and install [Gmail](https://mail.google.com/) mobile apps for [Apple](https://apps.apple.com/us/app/gmail-email-by-google/id422689480) or [Android](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US)).
@@ -26,11 +30,11 @@
 ## 0.5 COST/BUDGET
 
 1. Pre-departure COVID-19 PCR between S$125 to S$180.
-2. Flight Ticket with Return flight from Singapore to Indonesia between S$400 to S$600.
+2. Flight Ticket with return flight from Singapore to Indonesia between S$400 to S$600.
 3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/).
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. On-Arrival PCR test at Changi S$125.
-6. Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very high, try to change money before going to the Changi Airport.
+6. Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very "friendly", try to change money before going to the Changi Airport.
 7. **NOTE:** Credit Card (Mastercard/Visa) will be prefer in Indonesia for Hotel Payment.
 8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia.
 
@@ -45,7 +49,7 @@
 ## 1. Non‐Indonesia Vaccination Verification (14 days)
 
 Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
-1. Submit Indonesian Identity Card (KTP) number (do not use Passport number), the KTP number will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
+1. Submit Indonesian Identity Card (KTP) number (DO NOT use Passport number), the KTP number will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
 2. Submit Vaccination Certificate from https://www.notarise.gov.sg/.
 3. **_Wait around 14 days for approval_ -- [very slow](https://kominfo.go.id/content/detail/16505/apa-itu-industri-40-dan-bagaimana-indonesia-menyongsongnya/0/sorotan_media) -- Indonesian still using [Lontar](https://www.nowbali.co.id/lontar-balis-palm-leaf-manuscripts/).**
 4. Check approval status at https://vaksinln.dto.kemkes.go.id/ daily.

@@ -126,6 +126,10 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 6. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D)/Android TV/[Apple TV](https://www.apple.com/sg/tv-home/), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
 
+![Chromecast](https://user-images.githubusercontent.com/787301/149765962-002c80e1-26d3-461f-9d1f-5e37c8a5851c.png)
+
+![Mango](https://user-images.githubusercontent.com/787301/149765040-1b2ae10c-fbfb-45e7-8e8f-a44203b5396e.png)
+
 7. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
 
 8. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly.
@@ -162,8 +166,11 @@ Every International arrival, starting on 29th November 2021, is required to pres
 6. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 pcs each day)
 7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before end of quarantine date. 
 8. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m next day).
-9. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room.
-10. Checkout from the Hotel, close all the bills including room services etc, get hardcopy of the Release Letter. 
+
+![PCR UI](https://user-images.githubusercontent.com/787301/149764512-2080210c-c7b7-4d47-8039-46dd5b0c029c.png)
+
+10. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room.
+11. Checkout from the Hotel, close all the bills including room services etc, get hardcopy of the Release Letter. 
 
 ![Release Letter](https://user-images.githubusercontent.com/787301/149757385-ff8558e2-1a81-4eed-95f5-0f7de96214a5.png)
 

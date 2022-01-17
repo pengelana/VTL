@@ -106,6 +106,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 5. Wait for confirmation from the Hotel.
 6. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
 
+
 ## 6. Pre-departure COVID-19 PCR Test (2 days) 🌡
 
 1. Make appointment for Pre-departure [COVID-19 PCR test 2 days before flight to Indonesia](https://kemlu.go.id/singapore/en/read/faq-selama-wabah-covid-19-bagi-wni-dan-wna-yang-akan-ke-indonesia/1047/important-information).
@@ -174,6 +175,10 @@ Every International arrival, starting on 29th November 2021, is required to pres
 11. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (Optional).
 
 ![Fast Charger](https://user-images.githubusercontent.com/787301/149707947-84e21abe-4a7a-492e-932d-f0ccaecbaa1d.png)
+
+12. Earphones, Headphones!
+
+![image](https://user-images.githubusercontent.com/787301/149820173-1100d03a-5bba-4601-9b0d-ad6fd7a60704.png)
 
 
 ## 8. Flight - Changi T3 & Arrive in Jakarta - CGK T3 (6 - 7 hours) 🛫

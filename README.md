@@ -120,38 +120,42 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 2. List of MOH-Approved COVID-19 Test Providers:
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
-3. Print and bring hardcopy of **NEGATIVE** PCR result.
+3. Print hardcopy of **NEGATIVE** PCR result.
 
 ![PCR](https://user-images.githubusercontent.com/787301/149706269-92b7f684-0a0c-431d-bbf8-e82955820274.png)
 
 ## 7. Preparations before flight to Indonesia (2 - 3 days) 📝
 
-1. Bring Extra [Medical Mask](https://www.fairprice.com.sg/search?query=mask) & [N95](https://www.fairprice.com.sg/search?query=n95).
-2. Change SGD to IDR in Singapore, there is no time to change after arrival in Indonesia.
-3. Bring [snacks](https://www.fairprice.com.sg/search?query=snack), a lot of [snacks](https://www.fairprice.com.sg/search?query=snack), [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), [biscuits](https://www.fairprice.com.sg/search?query=biscuits), anything else to eat/drink during quarantine (room service is not cheap).
+1. Extra [Medical Mask](https://www.fairprice.com.sg/search?query=mask) & [N95](https://www.fairprice.com.sg/search?query=n95).
+2. [Antigen Rapid Self Test (ART) Kit](https://www.fairprice.com.sg/category/antigen-rapid-test) (min 5 pcs). 
 
-4. Bring [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
-5. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
+![ART](https://user-images.githubusercontent.com/787301/149803325-1ba83b30-423f-45eb-a767-99136d53cb31.png)
+
+3. Change SGD to IDR in Singapore, there is no time to change after arrival in Indonesia.
+4. [Snacks](https://www.fairprice.com.sg/search?query=snack), a lot of [snacks](https://www.fairprice.com.sg/search?query=snack), [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), [biscuits](https://www.fairprice.com.sg/search?query=biscuits), anything else to eat/drink during quarantine (room service is not cheap).
+
+5. [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
+6. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
 
 ![3-pin](https://user-images.githubusercontent.com/787301/149704432-18f49f39-f87b-4460-a61b-94cb5267b949.png)
 
-6. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330) with USB charger.
+7. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330) with USB charger.
 
 ![Allocacoc](https://user-images.githubusercontent.com/787301/149704735-3b00ea62-a74f-46ae-a7df-700d2b39ad70.png)
 
-7. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D) (S$65)/[Android Box](https://www.mi.com/global/mibox/)/[Apple TV](https://www.apple.com/sg/shop/buy-tv/apple-tv-4k) (S$269), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) (S$27.90) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection) (Optional). 
+8. [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D) (S$65)/[Android Box](https://www.mi.com/global/mibox/)/[Apple TV](https://www.apple.com/sg/shop/buy-tv/apple-tv-4k) (S$269), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) (S$27.90) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection) (Optional). 
 
 ![Chromecast](https://user-images.githubusercontent.com/787301/149765962-002c80e1-26d3-461f-9d1f-5e37c8a5851c.png)
 
 ![Mango](https://user-images.githubusercontent.com/787301/149765040-1b2ae10c-fbfb-45e7-8e8f-a44203b5396e.png)
 
-8. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
+9. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
 
-9. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly.
+10. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly.
 
 ![CGK WiFi](https://user-images.githubusercontent.com/787301/149745464-95378613-3ce1-48de-aa8d-0316c884fc9b.png)
 
-10. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (Optional).
+11. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (Optional).
 
 ![Fast Charger](https://user-images.githubusercontent.com/787301/149707947-84e21abe-4a7a-492e-932d-f0ccaecbaa1d.png)
 

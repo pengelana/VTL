@@ -12,7 +12,7 @@
 
 ## 0. Prerequisite
 
-1. Kartu Tanda Penduduk (KTP) -- Indonesian Identity Card.
+1. Kartu Tanda Penduduk (KTP) - Indonesian Identity Card.
 2. Indonesian Passport.
 3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
@@ -163,12 +163,11 @@ Every International arrival, starting on 29th November 2021, is required to pres
 7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before end of quarantine date. 
 8. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m next day).
 9. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room.
-10. Checkout from the Hotel, close all the bills including room services etc. 
+10. Checkout from the Hotel, close all the bills including room services etc, get hardcopy of the Release Letter. 
 
 ![Release Letter](https://user-images.githubusercontent.com/787301/149757385-ff8558e2-1a81-4eed-95f5-0f7de96214a5.png)
 
-
-12. **NOTE:** Try to avoid crowded place, stay and eat within the hotel area.
+12. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area.
 13. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
 14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
 15. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight.

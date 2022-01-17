@@ -124,7 +124,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![Allocacoc](https://user-images.githubusercontent.com/787301/149704735-3b00ea62-a74f-46ae-a7df-700d2b39ad70.png)
 
-6. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D)/Android TV/[Apple TV](https://www.apple.com/sg/tv-home/), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
+6. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D)/Android TV/[Apple TV](https://www.apple.com/sg/tv-home/), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection) (Optional). 
 
 ![Chromecast](https://user-images.githubusercontent.com/787301/149765962-002c80e1-26d3-461f-9d1f-5e37c8a5851c.png)
 
@@ -136,7 +136,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![CGK WiFi](https://user-images.githubusercontent.com/787301/149745464-95378613-3ce1-48de-aa8d-0316c884fc9b.png)
 
-9. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (optional).
+9. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (Optional).
 
 ![Fast Charger](https://user-images.githubusercontent.com/787301/149707947-84e21abe-4a7a-492e-932d-f0ccaecbaa1d.png)
 

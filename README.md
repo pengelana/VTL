@@ -78,7 +78,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 ## 4. Airline Tickets (20 Mins)
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
-2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX!.
+2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX!
 3. [TRAVELOKA](https://www.traveloka.com/) IS NOT [RECOMMENDED](https://www.traveloka.com/en-sg/promotion/vtlflight).
 
 

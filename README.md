@@ -172,10 +172,11 @@ Every International arrival, starting on 29th November 2021, is required to pres
 8. Boarding to the plane and ready to go, Bon Voyage!
 9. Flight will take between 1.5 - 2 hours.
 10. Arrive in Indonesia (CGK Terminal 3).
-11. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, then baggage pickup.
-12. Upon arrival, for verification each person will be ask to remove mask again to compare with Passport photo.
-13. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
-14. Once the COVID-19 PCR result received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
+11. **NOTE:** Locate toilet inside CGK T3 Arrival Hall, clear the bladder, there is no toilet after Customs clearance. ⚠️ 
+12. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, baggage pickup, Customs clearance. 
+13. Upon arrival, each person will be ask to remove mask again to compare with Passport photo.
+14. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
+15. Once the COVID-19 PCR result received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
 
 ## 9. Quarantine (3 - 14 days) 😷
 

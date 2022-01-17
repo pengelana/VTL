@@ -5,11 +5,10 @@
 **_"It’s better to be prepared than to get ready"_**
 
 
-
-
 # Travelling from Singapore to Indonesia 
  
 **_Only for INDONESIAN (SINGAPORE PR/LONG-TERM VISIT PASS)_**
+
 
 ## 0. Prerequisite
 
@@ -20,6 +19,7 @@
 5. Email address for Vaccination registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card) (create free [Gmail](https://mail.google.com/) account and install [Gmail](https://mail.google.com/) mobile apps for [Apple](https://apps.apple.com/us/app/gmail-email-by-google/id422689480) or [Android](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US)).
 6. Phone number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
+
 ## 0.5 COST/BUDGET
 
 1. Pre-departure COVID-19 PCR between S$125 to S$180.
@@ -27,9 +27,10 @@
 3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/).
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. On-Arrival PCR test at Changi S$125.
-6. Bring additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very high, try to change money before going to the Changi Airport.
+6. Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very high, try to change money before going to the Changi Airport.
 7. **NOTE:** Credit Card (Mastercard/Visa) will be prefer in Indonesia for Hotel Payment.
 8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia.
+
 
 --- 
 
@@ -37,17 +38,16 @@
 
 ---
 
+
 ## 1. Non‐Indonesia Vaccination Verification (14 days)
 
 Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 1. Submit Indonesian Identity Card (KTP) number (do not use Passport number), the KTP number will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
 2. Submit Vaccination Certificate from https://www.notarise.gov.sg/.
-
-3. **_Wait around 14 days for approval_ -- [very slow](https://kominfo.go.id/content/detail/16505/apa-itu-industri-40-dan-bagaimana-indonesia-menyongsongnya/0/sorotan_media) -- Indonesian still using [Lontar](https://www.nowbali.co.id/lontar-balis-palm-leaf-manuscripts/).** 
-
-4. Check the approval status daily. 
-
-![Screen Shot 2022-01-16 at 3 55 21 PM](https://user-images.githubusercontent.com/787301/149652065-ba6df3e4-576d-41a1-9fff-a0d26ac7839e.png)
+3. **_Wait around 14 days for approval_**
+4. Check the approval status daily.
+ 
+![Verification Request](https://user-images.githubusercontent.com/787301/149652065-ba6df3e4-576d-41a1-9fff-a0d26ac7839e.png)
 
 
 ## 2. [Pedulilindungi](https://www.pedulilindungi.id/) (60 mins)
@@ -57,12 +57,9 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 3. Generate Indonesian "Vaccine Certificate" from [Pedulilindungi](https://www.pedulilindungi.id/).
 4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be check upon arrival in Indonesia before Immigration desk.
 
+![Pedulilindungi](https://user-images.githubusercontent.com/787301/149706550-4e2eae88-f8c9-4ca2-b71f-4caa9872a9d6.png)
 
-![image](https://user-images.githubusercontent.com/787301/149654479-af1a85fe-9245-43c4-96af-c3bf1699ed1b.png)
-
----
-
-![image](https://user-images.githubusercontent.com/787301/149654728-77803cdc-2015-47ca-a4fc-9354e7074ce5.png)
+![Vaccine Certificate](https://user-images.githubusercontent.com/787301/149706649-03e7f19e-6f04-407c-8dfc-df7b49268d12.png)
 
 
 ## 3. Apply VTL (Vaccinated Travel Lane) (60 mins)
@@ -84,18 +81,23 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 
 **_SINGAPORE AIRLINES VTL_**
 
-![image](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
+![Singapore Airlines](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
 
 ## 5. Quarantine Hotel in Indonsia (2 - 3 days)
 
 1. Quarantine Hotel: https://quarantinehotelsjakarta.com/
 
-`Every International arrival, starting on 29th November 2021, is required to present vaccine certificates (full doses) exception of Johnson and Johnson and Cansino Vaccine (1 time only), and a 3x24 hours negative COVID-19 PCR test result to enter Indonesia. Continuing with the requirement to undergo a mandatory of 6 nights and 7 days quarantine at the designated accommodation conducted by the Indonesian government at their own expenses. The requirement must be followed by the second PCR test on the 6th day at the designated accommodation.`
+`
+Every International arrival, starting on 29th November 2021, is required to present vaccine certificates (full doses) exception of Johnson and Johnson and Cansino Vaccine (1 time only), and a 3x24 hours negative COVID-19 PCR test result to enter Indonesia. Continuing with the requirement to undergo a mandatory of 6 nights and 7 days quarantine at the designated accommodation conducted by the Indonesian government at their own expenses. The requirement must be followed by the second PCR test on the 6th day at the designated accommodation.
+`
 
 2. Contact Hotel via Email or Whatsapp.
-3. Submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
-4. Wait for confirmation from the Hotel.
-5. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
+
+![Hotel](https://user-images.githubusercontent.com/787301/149704184-aa46db2b-a181-475d-b954-29bee0da5f3c.png)
+
+4. Hotel staff will request to submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
+5. Wait for confirmation from the Hotel.
+6. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
 
 ## 6. Pre-departure COVID-19 PCR Test (2 days)
 
@@ -104,7 +106,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
 3. Print and bring hardcopy of **NEGATIVE** PCR result.
 
-![Screen Shot 2022-01-16 at 7 51 31 PM](https://user-images.githubusercontent.com/787301/149658897-f96e1c47-d01f-4ca5-9e96-56fd20cda878.png)
+![PCR](https://user-images.githubusercontent.com/787301/149706269-92b7f684-0a0c-431d-bbf8-e82955820274.png)
 
 ## 7. Preparations before flight to Indonesia (2 - 3 days)
 
@@ -113,15 +115,15 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits)
 3. Bring [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
 4. Power outlet converter from 3-pin (Singapore/UK) to 2-pin.
 
-![image](https://user-images.githubusercontent.com/787301/149657014-6f49fe45-b63a-4e48-ac78-064e9aefa29b.png)
+![3-pin](https://user-images.githubusercontent.com/787301/149704432-18f49f39-f87b-4460-a61b-94cb5267b949.png)
 
-5. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D)/Android TV/[Apple TV](https://www.apple.com/sg/tv-home/), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
+5. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330) with USB charger.
 
-6. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
+![Allocacoc](https://user-images.githubusercontent.com/787301/149704735-3b00ea62-a74f-46ae-a7df-700d2b39ad70.png)
 
-7. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330) with USB charger.
+6. Bring [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D)/Android TV/[Apple TV](https://www.apple.com/sg/tv-home/), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection). 
 
-![image](https://user-images.githubusercontent.com/787301/149656981-1e7a3481-5a39-4e7a-ac87-e721280db7da.png)
+7. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
 
 8. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly.
 

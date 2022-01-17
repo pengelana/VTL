@@ -151,7 +151,12 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 9. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
 
-10. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly.
+10. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly. 
+
+- [Singtel](https://www.singtel.com/personal/products-services/mobile/roaming)
+- [M1](https://www.m1.com.sg/mobile/mobile-add-ons/roaming/roaming-subscription) 
+- [Stahub](https://www.starhub.com/personal/mobile/travel-roam/travelling-overseas.html) 
+- [TPG](https://www.tpgmobile.sg/roaming)
 
 ![CGK WiFi](https://user-images.githubusercontent.com/787301/149745464-95378613-3ce1-48de-aa8d-0316c884fc9b.png)
 

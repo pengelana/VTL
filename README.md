@@ -109,6 +109,15 @@ Every International arrival, starting on 29th November 2021, is required to pres
 ## 6. Pre-departure COVID-19 PCR Test (2 days) 🌡
 
 1. Make appointment for Pre-departure PCR test two days before flight to Indonesia.
+   - https://doctoranywhere.com/covid-swab-test/ (S$107)
+   - https://www.parkwayshenton.com/covid-19/pre-departure-test (S$118)
+   - https://acumed.com.sg/our-services/covid19-test-singapore-pds/ (S$127)
+   - https://minmed.sg/covid-19-pcr-swab-test/ (S$128)
+   - https://www.swab.sg/ (S$128)
+   - https://www.rafflesmedicalgroup.com/raffles-connect/covid-19-swab-test/ (S$138)
+   
+   more info: https://mainlymiles.com/2022/01/04/cheapest-pre-departure-covid-19-pcr-and-art-tests-in-singapore/
+
 2. List of MOH-Approved COVID-19 Test Providers:
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
 3. Print and bring hardcopy of **NEGATIVE** PCR result.

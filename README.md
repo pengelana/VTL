@@ -132,9 +132,20 @@ Every International arrival, starting on 29th November 2021, is required to pres
 ![ART](https://user-images.githubusercontent.com/787301/149803325-1ba83b30-423f-45eb-a767-99136d53cb31.png)
 
 3. Change SGD to IDR in Singapore, there is no time to change after arrival in Indonesia.
+
+![Money](https://user-images.githubusercontent.com/787301/149818914-f0268089-66f4-4b19-8e9d-faad1d374fe9.png)
+
 4. [Snacks](https://www.fairprice.com.sg/search?query=snack), a lot of [snacks](https://www.fairprice.com.sg/search?query=snack), [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), [biscuits](https://www.fairprice.com.sg/search?query=biscuits), anything else to eat/drink during quarantine (room service is not cheap).
 
 5. [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
+
+![Powerbank](https://user-images.githubusercontent.com/787301/149817716-a83684e7-2a8f-49e5-ba16-8c63dd4bf9ce.png)
+ 
+  - Lithium battery must [not exceed 160 Wh](https://www.coolblue.be/en/advice/which-power-bank-can-you-take-on-the-plane.html).
+  - Each passenger can carry a maximum of 2 spare lithium batteries of [100-160Wh into the cabin](https://www.coolblue.be/en/advice/which-power-bank-can-you-take-on-the-plane.html).
+  
+  - Ref: https://www.singaporeair.com/en_UK/sg/travel-info/baggage/baggage-restrictions/
+ 
 6. Power Adaptor Plug from [3-pin (Singapore/UK) to European 2-pin](https://shopee.sg/Adaptor-Plug-Adapter-3-Pin-UK-To-EU-Euro-Europe-European-2-Pin-Portable-For-Travel-i.271696626.5245031447?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP6Tpz-7_yLgUbvaviD1jCYSovcdh8AB-c8_FNw2cnrPhsCGITublrRoChyMQAvD_BwE).
 
 ![3-pin](https://user-images.githubusercontent.com/787301/149704432-18f49f39-f87b-4460-a61b-94cb5267b949.png)

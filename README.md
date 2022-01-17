@@ -164,12 +164,12 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 10. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly. 
 
+![CGK WiFi](https://user-images.githubusercontent.com/787301/149745464-95378613-3ce1-48de-aa8d-0316c884fc9b.png)
+
 - [Singtel](https://www.singtel.com/personal/products-services/mobile/roaming)
 - [M1](https://www.m1.com.sg/mobile/mobile-add-ons/roaming/roaming-subscription) 
 - [Stahub](https://www.starhub.com/personal/mobile/travel-roam/travelling-overseas.html) 
 - [TPG](https://www.tpgmobile.sg/roaming)
-
-![CGK WiFi](https://user-images.githubusercontent.com/787301/149745464-95378613-3ce1-48de-aa8d-0316c884fc9b.png)
 
 11. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (Optional).
 

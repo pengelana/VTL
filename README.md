@@ -182,6 +182,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 13. Medicine: Panadol, Pandol Extra, Pain relief patch/balm etc.
 
+![Tiger](https://user-images.githubusercontent.com/787301/149879425-46af2649-42d8-4401-93f8-0f1da62907a4.png)
 
 ## 8. Flight - Changi T3 & Arrive in Jakarta - CGK T3 (6 - 7 hours) 🛫
 

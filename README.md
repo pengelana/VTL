@@ -57,13 +57,19 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 ## 2. [Pedulilindungi](https://www.pedulilindungi.id/) (60 mins) 📱
 
 1. Download [Pedulilindungi](https://www.pedulilindungi.id/) app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
+
 2. Register new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with number of Kartu Tanda Penduduk (KTP).
 3. Generate Indonesian "Vaccine Certificate" from [Pedulilindungi](https://www.pedulilindungi.id/).
-4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be check upon arrival in Indonesia before Immigration desk.
 
 ![Pedulilindungi](https://user-images.githubusercontent.com/787301/149706550-4e2eae88-f8c9-4ca2-b71f-4caa9872a9d6.png)
 
 ![Vaccine Certificate](https://user-images.githubusercontent.com/787301/149706649-03e7f19e-6f04-407c-8dfc-df7b49268d12.png)
+
+4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be check upon arrival in Indonesia before Immigration desk.
+
+![ehac_1](https://user-images.githubusercontent.com/787301/150001218-03f923b9-24a6-46d0-8ee0-072c9deae551.png)
+
+![ehac_2](https://user-images.githubusercontent.com/787301/150000572-e8bcd2e0-1b03-4d79-b07c-b6ce1fa9bc49.png)
 
 
 ## 3. Apply VTL (Vaccinated Travel Lane) (60 mins) 📨

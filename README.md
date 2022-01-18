@@ -31,9 +31,9 @@
 
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. On-Arrival PCR test at Changi S$125.
-6. Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very "friendly", try to change money before going to the Changi Airport.
-7. **NOTE:** Credit Card (Mastercard/Visa) will be prefer in Indonesia for Hotel Payment. 📌
-8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia. ⚠️
+6. **NOTE:** Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal 3 is not "friendly" 📌
+7. **NOTE:** Credit Card (Mastercard/Visa). 📌
+8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia. 📌
 
 
 --- 
@@ -48,7 +48,7 @@
 Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 1. Submit Indonesian Identity Card (KTP) number (DO NOT use Passport number), the KTP number will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
 2. Submit Vaccination Certificate from https://www.notarise.gov.sg/.
-3. **_Wait around 14 days for approval_ -- [very slow](https://kominfo.go.id/content/detail/16505/apa-itu-industri-40-dan-bagaimana-indonesia-menyongsongnya/0/sorotan_media) -- Indonesian still using [Lontar](https://www.nowbali.co.id/lontar-balis-palm-leaf-manuscripts/).**
+3. **_Wait around 14 days for approval_.**
 4. Check approval status at https://vaksinln.dto.kemkes.go.id/ daily.
  
 ![Verification Request](https://user-images.githubusercontent.com/787301/149652065-ba6df3e4-576d-41a1-9fff-a0d26ac7839e.png)
@@ -79,8 +79,8 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 ## 4. Airline Tickets (20 Mins) 🔖
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
-2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX! ⚠️
-3. [TRAVELOKA](https://www.traveloka.com/) IS NOT [RECOMMENDED](https://www.traveloka.com/en-sg/promotion/vtlflight). ⚠️
+2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX! ❌
+3. [TRAVELOKA](https://www.traveloka.com/) IS NOT [RECOMMENDED](https://www.traveloka.com/en-sg/promotion/vtlflight). ❌
 
 
 **_SINGAPORE AIRLINES VTL_**
@@ -132,9 +132,9 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![ART](https://user-images.githubusercontent.com/787301/149803325-1ba83b30-423f-45eb-a767-99136d53cb31.png)
 
-3. Change SGD to IDR in Singapore, there is no time to change after arrival in Indonesia.
+3. Change SGD to IDR in Singapore 📌
 
-![Money](https://user-images.githubusercontent.com/787301/149818914-f0268089-66f4-4b19-8e9d-faad1d374fe9.png)
+![image](https://user-images.githubusercontent.com/787301/149927050-a4492146-d644-437b-9f89-31feee54a8aa.png)
 
 4. [Snacks](https://www.fairprice.com.sg/search?query=snack), a lot of [snacks](https://www.fairprice.com.sg/search?query=snack), [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), [biscuits](https://www.fairprice.com.sg/search?query=biscuits), anything else to eat/drink during quarantine (room service is not cheap).
 

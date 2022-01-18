@@ -262,7 +262,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 3. https://kemlu.go.id/losangeles/en/news/11727/update-indonesia-travel-restrictions
 4. https://kemlu.go.id/singapore/en/read/faq-selama-wabah-covid-19-bagi-wni-dan-wna-yang-akan-ke-indonesia/1047/important-information
 
-# 🔚
+# END 🔚
 
 
 

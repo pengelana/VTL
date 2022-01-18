@@ -178,7 +178,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 12. Earphones, Headphones!
 
-![image](https://user-images.githubusercontent.com/787301/149820173-1100d03a-5bba-4601-9b0d-ad6fd7a60704.png)
+![image](https://user-images.githubusercontent.com/787301/149888432-602e5761-1287-463f-86bd-9ce0fa73cfdd.png)
 
 13. Medicine: Panadol, Pandol Extra, Pain relief patch/balm etc.
 

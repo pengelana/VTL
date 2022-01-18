@@ -128,6 +128,9 @@ Every International arrival, starting on 29th November 2021, is required to pres
 ## 7. Preparations before flight to Indonesia (2 - 3 days) 📝
 
 1. Extra [Medical Mask](https://www.fairprice.com.sg/search?query=mask) & [N95](https://www.fairprice.com.sg/search?query=n95).
+
+![Respirator](https://user-images.githubusercontent.com/787301/149928190-020b13a6-1299-4ac5-9ec5-5c0273c74fad.png)
+
 2. [Antigen Rapid Self Test (ART) Kit](https://www.fairprice.com.sg/category/antigen-rapid-test).
 
 ![ART](https://user-images.githubusercontent.com/787301/149803325-1ba83b30-423f-45eb-a767-99136d53cb31.png)

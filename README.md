@@ -87,7 +87,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 
 ![Singapore Airlines](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
 
-## 5. Quarantine Hotel in Indonsia (2 - 3 days) 🏨
+## 5. Quarantine Hotel in Indonesia (2 - 3 days) 🏨
 
 1. Quarantine Hotel: https://quarantinehotelsjakarta.com/
 
@@ -180,7 +180,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![image](https://user-images.githubusercontent.com/787301/149820173-1100d03a-5bba-4601-9b0d-ad6fd7a60704.png)
 
-13. Medicine: Panadol, Pandol Extra, etc.
+13. Medicine: Panadol, Pandol Extra, Pain relief patch/balm etc.
 
 
 ## 8. Flight - Changi T3 & Arrive in Jakarta - CGK T3 (6 - 7 hours) 🛫

@@ -1,10 +1,5 @@
 # [VTL](https://safetravel.ica.gov.sg/vtl/requirements-and-process), Vaccinated Travel Lane ✈️ 
 
-**_TRAVELLING TO INDONESIA DURING PANDEMIC IS NOT EASY._**
-
-**_"It’s better to be prepared than to get ready"_**
-
-
 # Travelling from Singapore to Indonesia 🛄
  
 **_ONLY FOR INDONESIAN (SINGAPORE PERMANENT RESIDENT/[LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits))_** ⚠️
@@ -23,8 +18,9 @@
 
 ![MOH VC](https://user-images.githubusercontent.com/787301/149710012-971100e2-ea54-4f17-9578-2b30d9a15abf.png)
 
-6. Email address for Vaccination Registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card) (create free [Gmail](https://mail.google.com/) account and install [Gmail](https://mail.google.com/) mobile apps for [Apple](https://apps.apple.com/us/app/gmail-email-by-google/id422689480) or [Android](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US)).
-7. Phone number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+6. Email address for Vaccination Registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+ 
+7. Mobile number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
 
 ## 0.5 Budget 💸
@@ -104,6 +100,9 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 4. Hotel staff will request to submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
 5. Wait for confirmation from the Hotel.
+
+![Confirmation](https://user-images.githubusercontent.com/787301/149860178-5d412cae-e524-4468-bf4b-bd202707a2de.png)
+
 6. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
 
 

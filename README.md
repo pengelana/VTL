@@ -253,7 +253,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![PCR HH](https://user-images.githubusercontent.com/787301/149708903-e649c033-c28f-472b-979e-abad22b69b5b.png)
 
-## Welcome Home. 🏠
+# Welcome Home. 🏠
 
 ## See also 📎
 
@@ -262,7 +262,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 3. https://kemlu.go.id/losangeles/en/news/11727/update-indonesia-travel-restrictions
 4. https://kemlu.go.id/singapore/en/read/faq-selama-wabah-covid-19-bagi-wni-dan-wna-yang-akan-ke-indonesia/1047/important-information
 
-## END
+# 🔚
 
 
 

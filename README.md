@@ -137,7 +137,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 3. Change SGD to IDR in Singapore 📌
 
-![image](https://user-images.githubusercontent.com/787301/149927050-a4492146-d644-437b-9f89-31feee54a8aa.png)
+![IDR](https://user-images.githubusercontent.com/787301/149947567-f096dd02-5b0e-44cc-a196-490b2c48b23e.png)
 
 4. [Snacks](https://www.fairprice.com.sg/search?query=snack), a lot of [snacks](https://www.fairprice.com.sg/search?query=snack), [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), [biscuits](https://www.fairprice.com.sg/search?query=biscuits), anything else to eat/drink during quarantine (room service is not cheap).
 
@@ -209,7 +209,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 1. Arrive at the designated Hotel & Check-in.
 2. Hotel staff will ask to pay all the bills in full.
-3. Prepaare to ask the Hotel to deposit some money ("open card", preferred Visa or Mastercard)  S$100 - S$150 will be enought, just in-case need to order food/drinks (room service), without deposit hotel staff will ask to pay each order from room services immediately.
+3. Prepare to ask the Hotel to deposit some money ("open card", preferred Visa or Mastercard)  S$100 - S$150 will be enought, just in-case need to order food/drinks (room service), without deposit hotel staff will ask to pay each order from room services immediately.
 5. Hotel will provide 3 meals every day: Breakfast, Lunch and Dinner.
 6. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 pcs each day)
 7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before end of quarantine date. 

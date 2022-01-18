@@ -230,8 +230,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 12. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area. 📌
 13. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
 14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ART results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
-15. **NOTE:** **NEGATIVE** COVID-19 PCR (Polymerase Chain Reaction) results not required for Indonesia domestic flight. 📌
-16. **NOTE:** **NEGATIVE** COVID-19 ART (Antigen Rapid Test) administered by medical professionals needed for Indonesia domestic flight. 📌
+15. **NOTE:** **NEGATIVE** COVID-19 PCR (Polymerase Chain Reaction) results not required for Indonesia domestic flight, only ART (Antigen Rapid Test) administered by medical professionals. 📌
 
 ![Antigen Manuhua](https://user-images.githubusercontent.com/787301/149759600-594be6e3-b7ab-4dbe-afa9-0667e13d5fa8.png)
 

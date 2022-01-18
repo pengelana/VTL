@@ -30,7 +30,7 @@
 3. [Quarantine Hotel](https://quarantinehotelsjakarta.com/) S$900 - [S$6000](https://quarantinehotelsjakarta.com/hotels.html?city=&hname=&star[]=5&sortby=0) (https://quarantinehotelsjakarta.com/).
 
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
-5. On-Arrival PCR test at Changi S$125.
+5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 6. **NOTE:** Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal 3 is not "friendly" 📌
 7. **NOTE:** Credit Card (Mastercard/Visa). 📌
 8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia. 📌

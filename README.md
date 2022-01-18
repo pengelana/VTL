@@ -166,7 +166,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 9. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
 
-10. Consider to activate data roaming, WiFi access in the CGK Terminal 3 (Jakarta) Airport is not friendly. 
+10. Consider to activate data roaming, WiFi access in the [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php) (Jakarta) Airport is not friendly. 
 
     - [Singtel](https://www.singtel.com/personal/products-services/mobile/roaming)
     - [M1](https://www.m1.com.sg/mobile/mobile-add-ons/roaming/roaming-subscription) 
@@ -198,8 +198,8 @@ Every International arrival, starting on 29th November 2021, is required to pres
 7. **NOTE:** Wear N95 mask after Final check by Airline staff.📌
 8. Boarding to the plane and ready to go, Bon Voyage!
 9. Flight will take between 1.5 - 2 hours.
-10. Arrive in Indonesia (CGK Terminal 3).
-11. **NOTE:** Locate toilet inside CGK T3 Arrival Hall, clear the bladder, there is no toilet after Customs clearance. ⚠️ 
+10. Arrive in Indonesia, [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php).
+11. **NOTE:** Locate toilet inside [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php) Arrival Hall, clear the bladder, there is no toilet after Customs clearance. ⚠️ 
 12. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, baggage pickup, Customs clearance. 
 13. Each person will be ask to remove mask again to compare with Passport photo upon arrival.
 14. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
@@ -244,7 +244,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![PCR Express](https://user-images.githubusercontent.com/787301/149708675-423e8e48-7bcf-4779-b86e-399f4dd9428b.png)
 
-6. Check-in to the departure gate on time (CGK Terminal 3).
+6. Check-in to the departure gate on time ([CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php)).
 7. Drink enough water.
 8. When arrive to Singapore (Changi Terminal 3), use Automated Immigration Gates. Reduce contact with other people.
 9. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to inform about arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, THE EMAIL NEED TO BE **ACKNOWLEDGED**_. ⚠️

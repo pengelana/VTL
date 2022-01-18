@@ -101,7 +101,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 4. Hotel staff will request to submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
 5. Wait for confirmation from the Hotel.
 
-![Confirmation](https://user-images.githubusercontent.com/787301/149860178-5d412cae-e524-4468-bf4b-bd202707a2de.png)
+![Confirmation](https://user-images.githubusercontent.com/787301/149860662-240dd477-b231-4353-93b3-f7aeabe2525d.png)
 
 6. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
 

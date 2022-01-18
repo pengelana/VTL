@@ -31,9 +31,9 @@
 
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
-6. **NOTE:** Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly" 📌
-7. **NOTE:** Credit Card (Mastercard/Visa). 📌
-8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia. 📌
+6. **NOTE:** 
+   - Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly" 📌
+   - Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia with Credit Card (Visa/Mastercard). 📌
 
 
 --- 
@@ -135,13 +135,17 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![ART](https://user-images.githubusercontent.com/787301/149803325-1ba83b30-423f-45eb-a767-99136d53cb31.png)
 
-3. Change SGD to IDR in Singapore 📌
+3. Debit/Credit Card (Visa/Mastercard)
+
+![CreditCard](https://user-images.githubusercontent.com/787301/149994418-c92cf03e-c7de-4722-8bc1-9d73b5055b3e.png)
+
+4. Change SGD to IDR in Singapore 📌
 
 ![IDR](https://user-images.githubusercontent.com/787301/149947567-f096dd02-5b0e-44cc-a196-490b2c48b23e.png)
 
-4. [Snacks](https://www.fairprice.com.sg/search?query=snack), a lot of [snacks](https://www.fairprice.com.sg/search?query=snack), [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), [biscuits](https://www.fairprice.com.sg/search?query=biscuits), anything else to eat/drink during quarantine (room service is not cheap).
+5. [Snacks](https://www.fairprice.com.sg/search?query=snack), a lot of [snacks](https://www.fairprice.com.sg/search?query=snack), [coffee](https://www.fairprice.com.sg/product/nescafe-original-3in1-instant-coffee-35s-x-19g-13039640), [tea](https://www.fairprice.com.sg/product/coffeehock-2in1-teh-o-ceylon-tea-bag-w-brown-raw-sugar-10-pc-90052904), [milo](https://www.fairprice.com.sg/product/milo-instant-chocolate-malt-drink-powder---gao-kosong-13147486), [pistachio](https://www.fairprice.com.sg/product/camel-natural-pistachios-150g-13010733), [peanuts](https://www.fairprice.com.sg/product/camel-cracker-peanuts-150g-13010732), [biscuits](https://www.fairprice.com.sg/search?query=biscuits), anything else to eat/drink during quarantine (room service is not cheap).
 
-5. [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
+6. [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
 
 ![Powerbank](https://user-images.githubusercontent.com/787301/149817716-a83684e7-2a8f-49e5-ba16-8c63dd4bf9ce.png)
  
@@ -150,23 +154,23 @@ Every International arrival, starting on 29th November 2021, is required to pres
   
   - Ref: https://www.singaporeair.com/en_UK/sg/travel-info/baggage/baggage-restrictions/
  
-6. Power Adaptor Plug from [3-pin (Singapore/UK) to European 2-pin](https://shopee.sg/Adaptor-Plug-Adapter-3-Pin-UK-To-EU-Euro-Europe-European-2-Pin-Portable-For-Travel-i.271696626.5245031447?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP6Tpz-7_yLgUbvaviD1jCYSovcdh8AB-c8_FNw2cnrPhsCGITublrRoChyMQAvD_BwE).
+7. Power Adaptor Plug from [3-pin (Singapore/UK) to European 2-pin](https://shopee.sg/Adaptor-Plug-Adapter-3-Pin-UK-To-EU-Euro-Europe-European-2-Pin-Portable-For-Travel-i.271696626.5245031447?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP6Tpz-7_yLgUbvaviD1jCYSovcdh8AB-c8_FNw2cnrPhsCGITublrRoChyMQAvD_BwE).
 
 ![3-pin](https://user-images.githubusercontent.com/787301/149704432-18f49f39-f87b-4460-a61b-94cb5267b949.png)
 
-7. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330) with USB charger.
+8. [Power Extension](https://www.qoo10.sg/item/ALLOCACOC-ALLOCACOC-POWERCUBE-POWER-STRIP-POWER-SOCKET-CHARGER-TRAVEL-ADAPTER/445003333?banner_no=1305330) with USB charger.
 
 ![Allocacoc](https://user-images.githubusercontent.com/787301/149704735-3b00ea62-a74f-46ae-a7df-700d2b39ad70.png)
 
-8. [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D) (S$65)/[Android Box](https://www.mi.com/global/mibox/)/[Apple TV](https://www.apple.com/sg/shop/buy-tv/apple-tv-4k) (S$269), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) (S$27.90) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection) (Optional). 
+9. [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D) (S$65)/[Android Box](https://www.mi.com/global/mibox/)/[Apple TV](https://www.apple.com/sg/shop/buy-tv/apple-tv-4k) (S$269), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) (S$27.90) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection) (Optional). 
 
 ![Chromecast](https://user-images.githubusercontent.com/787301/149765962-002c80e1-26d3-461f-9d1f-5e37c8a5851c.png)
 
 ![Mango](https://user-images.githubusercontent.com/787301/149765040-1b2ae10c-fbfb-45e7-8e8f-a44203b5396e.png)
 
-9. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
+10. Get [VPN account](https://nordvpn.com/risk-free-vpn/) or create [Shadowsocks](https://getoutline.org/get-started/) or [Wireguard](https://www.digitalocean.com/community/tutorials/how-to-set-up-wireguard-on-ubuntu-20-04), some websites are blocked in Indonesia (Optional). 
 
-10. Consider to activate data roaming, WiFi access in the [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php) (Jakarta) Airport is not friendly. 
+11. Consider to activate data roaming, WiFi access in the [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php) (Jakarta) Airport is not friendly. 
 
     - [Singtel](https://www.singtel.com/personal/products-services/mobile/roaming)
     - [M1](https://www.m1.com.sg/mobile/mobile-add-ons/roaming/roaming-subscription) 
@@ -175,17 +179,18 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![CGK WiFi](https://user-images.githubusercontent.com/787301/149745464-95378613-3ce1-48de-aa8d-0316c884fc9b.png)
  
-11. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (Optional).
+12. [Fast charger](https://shopee.sg/shop/17628187/search?shopCollection=15514272) with long (minimum 6ft) [USB-C](https://shopee.sg/shop/17628187/search?page=0&shopCollection=12766674)  or [USB-C with lightning](https://shopee.sg/Anker-Powerline-III-USB-C-to-Lightning-Cable-(6-ft)-MFi-Certified-Fast-Charging-Lightning-Cable-for-iPhone-13-12-11-XR-i.17628187.9511542404?sp_atk=52d740ba-3693-4ed8-87b9-2e74f050255a) (Optional).
 
 ![Fast Charger](https://user-images.githubusercontent.com/787301/149707947-84e21abe-4a7a-492e-932d-f0ccaecbaa1d.png)
 
-12. Earphones, Headphones!
+13. Earphones, Headphones!
 
 ![image](https://user-images.githubusercontent.com/787301/149888432-602e5761-1287-463f-86bd-9ce0fa73cfdd.png)
 
-13. Medicine: Panadol, Pandol Extra, Pain relief patch/balm etc.
+14. Medicine: Panadol, Pandol Extra, Pain relief patch/balm etc.
 
 ![Tiger](https://user-images.githubusercontent.com/787301/149879425-46af2649-42d8-4401-93f8-0f1da62907a4.png)
+
 
 ## 8. Flight - Changi T3 & Arrive at Jakarta - CGK T3 (6 - 7 hours) 🛫
 

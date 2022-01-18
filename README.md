@@ -232,8 +232,8 @@ Every International arrival, starting on 29th November 2021, is required to pres
 3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
 4. Go to the Airport early (3.5 - 4 hours)
 5. Bring hardcopy for Airline Check-in:
-   1. **NEGATIVE** COVID-19 PCR test.
-   2. Vaccination Certificate.
+   - **NEGATIVE** COVID-19 PCR test.
+   - Vaccination Certificate.
 
 ![PCR Express](https://user-images.githubusercontent.com/787301/149708675-423e8e48-7bcf-4779-b86e-399f4dd9428b.png)
 

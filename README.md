@@ -45,7 +45,7 @@
 
 ## 1. Non‐Indonesia Vaccination Verification (14 days) 💉
 
-Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
+Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 1. Submit Indonesian Identity Card (KTP) number (DO NOT use Passport number), the KTP number will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
 2. Submit Vaccination Certificate from https://www.notarise.gov.sg/.
 3. **_Wait around 14 days for approval_.**

@@ -25,14 +25,15 @@
 
 ## 0.5 Budget 💸
 
-1. Pre-departure COVID-19 PCR between S$125 to S$180.
-2. Flight Ticket with return flight from Singapore to Indonesia between S$400 to S$600.
-3. Quarantine Hotel S$900 - S$6000 (check at https://quarantinehotelsjakarta.com/).
+1. Pre-departure COVID-19 PCR between S$110 to S$180 from Singapore to Indonesia.
+2. [Flight Ticket](https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/) with return flight from Singapore to Indonesia between S$400 to S$600.
+3. [Quarantine Hotel](https://quarantinehotelsjakarta.com/) S$900 - [S$6000](https://quarantinehotelsjakarta.com/hotels.html?city=&hname=&star[]=5&sortby=0) (https://quarantinehotelsjakarta.com/).
+
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. On-Arrival PCR test at Changi S$125.
 6. Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal is not very "friendly", try to change money before going to the Changi Airport.
-7. **NOTE:** Credit Card (Mastercard/Visa) will be prefer in Indonesia for Hotel Payment.
-8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia.
+7. **NOTE:** Credit Card (Mastercard/Visa) will be prefer in Indonesia for Hotel Payment. 📌
+8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia. ⚠️
 
 
 --- 
@@ -65,7 +66,7 @@ Register vaccinations status at https://vaksinln.dto.kemkes.go.id/.
 ![Vaccine Certificate](https://user-images.githubusercontent.com/787301/149706649-03e7f19e-6f04-407c-8dfc-df7b49268d12.png)
 
 
-## 3. Apply VTL (Vaccinated Travel Lane) (60 mins) ✉️
+## 3. Apply VTL (Vaccinated Travel Lane) (60 mins) 📨
 
 ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠️
 
@@ -75,7 +76,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL.
 3. Wait for few minutes until the VTL approved.
 
-## 4. Airline Tickets (20 Mins) 🎟️ 
+## 4. Airline Tickets (20 Mins) 🔖
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
 2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX! ⚠️
@@ -179,6 +180,8 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![image](https://user-images.githubusercontent.com/787301/149820173-1100d03a-5bba-4601-9b0d-ad6fd7a60704.png)
 
+13. Medicine: Panadol, Pandol Extra, etc.
+
 
 ## 8. Flight - Changi T3 & Arrive in Jakarta - CGK T3 (6 - 7 hours) 🛫
 
@@ -187,8 +190,8 @@ Every International arrival, starting on 29th November 2021, is required to pres
 3. Immigration officer will ask to remove mask to verified Passport photo and the passenger face.
 4. Arrive at the departure gate early, drink enough water.
 5. Once again airline staff will ask to remove mask to verified Passport photo and the passenger face.
-6. **NOTE:** It is better not to wear N95 mask before final check, otherwise will be difficult to remove mask and wear it again.✏️
-7. **NOTE:** Wear N95 mask after Final check by Airline staff.✏️
+6. **NOTE:** It is better not to wear N95 mask before final check, otherwise will be difficult to remove mask and wear it again.📌
+7. **NOTE:** Wear N95 mask after Final check by Airline staff.📌
 8. Boarding to the plane and ready to go, Bon Voyage!
 9. Flight will take between 1.5 - 2 hours.
 10. Arrive in Indonesia (CGK Terminal 3).
@@ -210,16 +213,16 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![PCR UI](https://user-images.githubusercontent.com/787301/149764512-2080210c-c7b7-4d47-8039-46dd5b0c029c.png)
 
-10. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room. ✏️
+10. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room. 📌
 11. Checkout from the Hotel, close all the bills including room services etc, get hardcopy of the Release Letter. 
 
 ![Release Letter](https://user-images.githubusercontent.com/787301/149757385-ff8558e2-1a81-4eed-95f5-0f7de96214a5.png)
 
-12. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area. ✏️
+12. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area. 📌
 13. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
 14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
-15. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight. ✏️
-16. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight. ✏️
+15. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight. 📌
+16. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight. 📌
 
 ![Antigen Manuhua](https://user-images.githubusercontent.com/787301/149759600-594be6e3-b7ab-4dbe-afa9-0667e13d5fa8.png)
 

@@ -25,11 +25,11 @@
 
 ## 0.5 Budget 💸
 
-1. Pre-departure COVID-19 PCR between S$110 to S$180 from Singapore to Indonesia.
+1. Pre-departure COVID-19 PCR (Polymerase Chain Reaction) between S$110 to S$180 from Singapore to Indonesia.
 2. [Flight Ticket](https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/) with return flight from Singapore to Indonesia between S$300 to S$600.
 3. [Quarantine Hotel](https://quarantinehotelsjakarta.com/) S$900 - [S$6000](https://quarantinehotelsjakarta.com/hotels.html?city=&hname=&star[]=5&sortby=0) (https://quarantinehotelsjakarta.com/).
 
-4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
+4. Pre-departure COVID-19 PCR (Polymerase Chain Reaction) test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 6. **NOTE:** Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly" 📌
 7. **NOTE:** Credit Card (Mastercard/Visa). 📌
@@ -224,9 +224,9 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 12. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area. 📌
 13. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
-14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ANTIGEN RAPID TEST results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
+14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/Antigen Rapid Test results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
 15. **NOTE:** **NEGATIVE** COVID-19 PCR results not required for Indonesia domestic flight. 📌
-16. **NOTE:** **NEGATIVE** COVID-19 ART (ANTIGEN RAPID TEST) administered by medical professionals needed for Indonesia domestic flight. 📌
+16. **NOTE:** **NEGATIVE** COVID-19 ART (Antigen Rapid Test) administered by medical professionals needed for Indonesia domestic flight. 📌
 
 ![Antigen Manuhua](https://user-images.githubusercontent.com/787301/149759600-594be6e3-b7ab-4dbe-afa9-0667e13d5fa8.png)
 

@@ -202,7 +202,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 1. Arrive at the designated Hotel & Check-in.
 2. Hotel staff will ask to pay all the bills in full.
-3. Prepaare to ask the Hotel to deposit some money ("open card" with Visa/Mastercard is preferred)  S$100 - S$150 will be enought, just in-case need to order food/drinks (room service), without deposit hotel staff will ask to pay each order from room services immediately.
+3. Prepaare to ask the Hotel to deposit some money ("open card", preffered Visa or Mastercard)  S$100 - S$150 will be enought, just in-case need to order food/drinks (room service), without deposit hotel staff will ask to pay each order from room services immediately.
 5. Hotel will provide 3 meals every day: Breakfast, Lunch and Dinner.
 6. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 pcs each day)
 7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before end of quarantine date. 

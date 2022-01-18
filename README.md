@@ -31,7 +31,7 @@
 
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
-6. **NOTE:** Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside Changi Terminal 3 is not "friendly" 📌
+6. **NOTE:** Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly" 📌
 7. **NOTE:** Credit Card (Mastercard/Visa). 📌
 8. **NOTE:** Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia. 📌
 
@@ -187,9 +187,9 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![Tiger](https://user-images.githubusercontent.com/787301/149879425-46af2649-42d8-4401-93f8-0f1da62907a4.png)
 
-## 8. Flight - Changi T3 & Arrive in Jakarta - CGK T3 (6 - 7 hours) 🛫
+## 8. Flight - Changi T3 & Arrive at Jakarta - CGK T3 (6 - 7 hours) 🛫
 
-1. Arrive early to Changi Terminal 3, estimate 3-3.5 hours before flight.
+1. Arrive early to [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3, estimate 3-3.5 hours before flight.
 2. Expect to be in the queue, prepare all the hardcopy of Vaccine Certificate, **NEGATIVE** Pre-departure COVID-19 PCR test will be check by Airline staff.
 3. Immigration officer will ask to remove mask to verified Passport photo and the passenger face.
 4. Arrive at the departure gate early, drink enough water.
@@ -246,7 +246,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 6. Check-in to the departure gate on time ([CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php)).
 7. Drink enough water.
-8. When arrive to Singapore (Changi Terminal 3), use Automated Immigration Gates. Reduce contact with other people.
+8. When arrive to Singapore ([Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3), use Automated Immigration Gates. Reduce contact with other people.
 9. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to inform about arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, THE EMAIL NEED TO BE **ACKNOWLEDGED**_. ⚠️
 10. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
 11. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.

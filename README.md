@@ -201,20 +201,20 @@ Every International arrival, starting on 29th November 2021, is required to pres
 ## 8. Flight - Changi T3 & Arrive at Jakarta - CGK T3 (6 - 7 hours) 🛫
 
 1. Arrive early to [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3, estimate 3-3.5 hours before flight.
-2. Expect to be in the queue, prepare all the hardcopy of Vaccine Certificate, **NEGATIVE** Pre-departure COVID-19 PCR test will be check by Airline staff.
+2. Expect to be in the queue, preparing a hardcopy of Vaccine Certificate and **NEGATIVE** Pre-departure COVID-19 PCR test to be check by Airline staff.
 3. Immigration officer will ask to remove mask to verified Passport photo and the passenger face.
 4. Arrive at the departure gate early, drink enough water.
 5. Once again airline staff will ask to remove mask to verified Passport photo and the passenger face.
-6. **NOTE:** It is better not to wear N95 mask before final check, otherwise will be difficult to remove mask and wear it again.📌
+6. **NOTE:** It is better not to wear a N95 mask before final check, otherwise it will be difficult to remove the mask and wear it again.📌
 7. **NOTE:** Wear N95 mask after Final check by Airline staff.📌
 8. Boarding to the plane and ready to go, Bon Voyage!
 9. Flight will take between 1.5 - 2 hours.
-10. Arrive in Indonesia, [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php).
-11. **NOTE:** Locate toilet inside [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php) Arrival Hall, clear the bladder, there is no toilet after Customs clearance. ⚠️ 
+10. Arrived in Indonesia, [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php).
+11. **NOTE:** Locate a toilet inside [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php) Arrival Hall, clear the bladder, there is no toilet after Customs clearance. ⚠️ 
 12. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, baggage pickup, Customs clearance. 
-13. Each person will be ask to remove mask again to compare with Passport photo upon arrival.
-14. Look for Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
-15. Once the COVID-19 PCR result received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
+13. Each person will be asked to remove the mask again to compare with the Passport photo upon arrival.
+14. Look for the Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
+15. Once the COVID-19 PCR result is received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
 
 ## 9. Quarantine (3 - 14 days) 😷
 

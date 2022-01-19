@@ -29,7 +29,7 @@
 2. [Flight Ticket](https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/) with return flight from Singapore to Indonesia between S$300 to S$600.
 3. [Quarantine Hotel](https://quarantinehotelsjakarta.com/) S$900 - [S$6000](https://quarantinehotelsjakarta.com/hotels.html?city=&hname=&star[]=5&sortby=0) (https://quarantinehotelsjakarta.com/).
 
-4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
+4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3-4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 6. **NOTE:** 
    - Normally before arrival, the Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia using Credit Card (Visa/Mastercard). 📌
@@ -93,7 +93,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 
 ![Singapore Airlines](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
 
-## 5. Quarantine Hotel in Indonesia (2 - 3 days) 🏨
+## 5. Quarantine Hotel in Indonesia (2-3 days) 🏨
 
 1. Quarantine Hotel: https://quarantinehotelsjakarta.com/
 
@@ -131,7 +131,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![PCR](https://user-images.githubusercontent.com/787301/149706269-92b7f684-0a0c-431d-bbf8-e82955820274.png)
 
-## 7. Preparations before flight to Indonesia (2 - 3 days) 📝
+## 7. Preparations before flight to Indonesia (2-3 days) 📝
 
 1. Extra [Medical Mask](https://www.fairprice.com.sg/search?query=mask) & [N95](https://www.fairprice.com.sg/search?query=n95).
 
@@ -198,25 +198,25 @@ Every International arrival, starting on 29th November 2021, is required to pres
 ![Tiger](https://user-images.githubusercontent.com/787301/149879425-46af2649-42d8-4401-93f8-0f1da62907a4.png)
 
 
-## 8. Flight - Changi T3 & Arrive at Jakarta - CGK T3 (6 - 7 hours) 🛫
+## 8. Flight - Changi T3 & Arrive at Jakarta - CGK T3 (6-7 hours) 🛫
 
 1. Arrive early to [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3, estimate 3-3.5 hours before flight.
-2. Expect to be in the queue, preparing a hard copy of Vaccine Certificate and **NEGATIVE** Pre-departure COVID-19 PCR test to be check by Airline staff.
-3. Immigration officer will ask to remove mask to verified Passport photo and the passenger face.
+2. Expect to be in the queue, preparing a hard copy of Vaccine Certificate and **NEGATIVE** Pre-departure COVID-19 PCR test to be checked by Airline staff.
+3. The Immigration officer will ask to remove the mask to verify the Passport photo and passenger face.
 4. Arrive at the departure gate early, drink enough water.
-5. Once again airline staff will ask to remove mask to verified Passport photo and the passenger face.
-6. **NOTE:** It is better not to wear a N95 mask before final check, otherwise it will be difficult to remove the mask and wear it again.📌
-7. **NOTE:** Wear N95 mask after Final check by Airline staff.📌
+5. Once again the airline staff will ask to remove the mask to verify the Passport photo and passenger face.
+6. **NOTE:** It is better not to wear an N95 mask before final check, otherwise it will be difficult to remove the mask and wear it again.📌
+7. **NOTE:** Wear an N95 mask after Final check by Airline staff.📌
 8. Boarding to the plane and ready to go, Bon Voyage!
-9. Flight will take between 1.5 - 2 hours.
+9. Flight will take between 1.5-2 hours.
 10. Arrived in Indonesia, [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php).
 11. **NOTE:** Locate a toilet inside [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php) Arrival Hall, clear the bladder, there is no toilet after Customs clearance. ⚠️ 
 12. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, baggage pickup, Customs clearance. 
 13. Each person will be asked to remove the mask again to compare with the Passport photo upon arrival.
-14. Look for the Hotel assistant and wait around 1.5 - 2.5 hours for **NEGATIVE** COVID-19 PCR result.
+14. Look for the Hotel assistant and wait around 1.5-2.5 hours for **NEGATIVE** COVID-19 PCR result.
 15. Once the COVID-19 PCR result is received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
 
-## 9. Quarantine (3 - 14 days) 😷
+## 9. Quarantine (3-14 days) 😷
 
 1. Arrive at the designated Hotel & Check-in.
 2. Hotel staff will ask to pay all the bills in full.
@@ -242,12 +242,12 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![Pedulilindungi Airport](https://user-images.githubusercontent.com/787301/149744789-1d06ba94-8d9f-47b9-b41a-c97e66351f29.png)
 
-## 10. Return to Singapore (2 - 3 days) 🛬
+## 10. Return to Singapore (2-3 days) 🛬
 
 1. **NEGATIVE** COVID-19 PCR test two days before arrival in Singapore.
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
 3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
-4. Go to the Airport early (3.5 - 4 hours)
+4. Go to the Airport early (3.5-4 hours)
 5. Bring hard copy for Airline Check-in:
    - **NEGATIVE** COVID-19 PCR test.
    - Vaccination Certificate.

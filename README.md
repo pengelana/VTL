@@ -10,6 +10,9 @@
 1. Kartu Tanda Penduduk (KTP) - Indonesian Identity Card.
 2. Indonesian Passport.
 3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
+
+![Tracetogeher](https://user-images.githubusercontent.com/787301/150124982-1b0d9333-ceef-4197-abb0-c1ef8771ccc5.png)
+
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
 
 ![notarise_1](https://user-images.githubusercontent.com/787301/149773733-db22e674-5b4d-498f-a7c0-3acd2af72934.png)
@@ -18,9 +21,9 @@
 
 ![MOH VC](https://user-images.githubusercontent.com/787301/149710012-971100e2-ea54-4f17-9578-2b30d9a15abf.png)
 
-6. Email address for Vaccination Registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+5. Email address for Vaccination Registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
  
-7. Mobile number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+6. Mobile number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
 
 ## 0.5 Budget 💸

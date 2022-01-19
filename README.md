@@ -126,7 +126,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 2. List of MOH-Approved COVID-19 Test Providers:
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
-3. Print hardcopy of **NEGATIVE** PCR result.
+3. Print hard copy of **NEGATIVE** PCR result.
 
 ![PCR](https://user-images.githubusercontent.com/787301/149706269-92b7f684-0a0c-431d-bbf8-e82955820274.png)
 
@@ -167,7 +167,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![Allocacoc](https://user-images.githubusercontent.com/787301/149704735-3b00ea62-a74f-46ae-a7df-700d2b39ad70.png)
 
-9. [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D) (S$65)/[Android Box](https://www.mi.com/global/mibox/)/[Apple TV](https://www.apple.com/sg/shop/buy-tv/apple-tv-4k) (S$269), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) (S$27.90) etc (Hotel WiFi is not secure, anyone from other room can hijack your connection) (Optional). 
+9. [Chromecast](https://www.challenger.sg/intelligent-living/networking-wireless/networking-wireless-Smart-Home-Devices/google-chromecast-charcoal-gray0--0842776109637?h=MSwxLDEqNTk%3D) (S$65)/[Android Box](https://www.mi.com/global/mibox/)/[Apple TV](https://www.apple.com/sg/shop/buy-tv/apple-tv-4k) (S$269), [Travel Router](https://www.amazon.sg/s?me=A2OZ0XOZKQKAGH&marketplaceID=A19VAU5U5O7RUS) (S$27.90) etc., (Hotel WiFi is not secure, anyone from other room can hijack your connection) (Optional). 
 
 ![Chromecast](https://user-images.githubusercontent.com/787301/149765962-002c80e1-26d3-461f-9d1f-5e37c8a5851c.png)
 
@@ -200,7 +200,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 ## 8. Flight - Changi T3 & Arrive at Jakarta - CGK T3 (6 - 7 hours) 🛫
 
 1. Arrive early to [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3, estimate 3-3.5 hours before flight.
-2. Expect to be in the queue, preparing a hardcopy of Vaccine Certificate and **NEGATIVE** Pre-departure COVID-19 PCR test to be check by Airline staff.
+2. Expect to be in the queue, preparing a hard copy of Vaccine Certificate and **NEGATIVE** Pre-departure COVID-19 PCR test to be check by Airline staff.
 3. Immigration officer will ask to remove mask to verified Passport photo and the passenger face.
 4. Arrive at the departure gate early, drink enough water.
 5. Once again airline staff will ask to remove mask to verified Passport photo and the passenger face.
@@ -220,15 +220,15 @@ Every International arrival, starting on 29th November 2021, is required to pres
 1. Arrive at the designated Hotel & Check-in.
 2. Hotel staff will ask to pay all the bills in full.
 3. Prepare to ask the Hotel to deposit some money ("open card", preferred Visa or Mastercard)  S$100 - S$150 will be enough, just in-case need to order food/drinks (room service), without deposit hotel staff will ask to pay each order from room services immediately.
-5. Hotel will provide 3 meals every day: Breakfast, Lunch and Dinner.
-6. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 pcs each day)
-7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before end of quarantine date. 
-8. Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m next day).
+5. The Hotel will provide 3 meals every day: Breakfast, Lunch and Dinner.
+6. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 PCs each day)
+7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before the end of quarantine date. 
+8. The Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m. next day).
 
 ![PCR UI](https://user-images.githubusercontent.com/787301/149764512-2080210c-c7b7-4d47-8039-46dd5b0c029c.png)
 
-10. Prepare for checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room. 📌
-11. Checkout from the Hotel, close all the bills including room services etc, get hardcopy of the Release Letter. 
+10. Prepare to checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room. 📌
+11. Checkout from the Hotel, close all the bills, including room services, etc., get a hard copy of the Release Letter. 
 
 ![Release Letter](https://user-images.githubusercontent.com/787301/149757385-ff8558e2-1a81-4eed-95f5-0f7de96214a5.png)
 
@@ -247,7 +247,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
 3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
 4. Go to the Airport early (3.5 - 4 hours)
-5. Bring hardcopy for Airline Check-in:
+5. Bring hard copy for Airline Check-in:
    - **NEGATIVE** COVID-19 PCR test.
    - Vaccination Certificate.
 

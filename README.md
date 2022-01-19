@@ -83,7 +83,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 
 1. Ref: https://safetravel.ica.gov.sg/vtl/requirements-and-process.
 2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL.
-3. Wait for few a minutes until the VTL approved.
+3. Wait for a few minutes until the VTL approved.
 
 ## 4. Airline Tickets (20 Mins) 🔖
 

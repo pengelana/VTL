@@ -33,6 +33,7 @@
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 6. **NOTE:** 
    - Normally before arrival, the Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia using Credit Card (Visa/Mastercard). 📌
+   - Exchange rate for SGD to IDR inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly". Change SGD to IDR before going to Changi Airport. 📌
 
 
 --- 

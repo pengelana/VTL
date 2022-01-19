@@ -33,7 +33,7 @@
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 6. **NOTE:** 
    - Normally before arrival, the Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia using Credit Card (Visa/Mastercard). 📌
-   - Exchange rate for SGD to IDR inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly". Change SGD to IDR before going to Changi Airport. 📌
+   - Exchange rate for SGD (Singapore Dollar) to IDR (Indonesian Rupiah) inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly". Change SGD to IDR before going to Changi Airport. 📌
 
 
 --- 
@@ -46,7 +46,7 @@
 ## 1. Non‐Indonesia Vaccination Verification (14 days) 💉
 
 Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
-1. Submit Indonesian Identity Card (KTP) number (DO NOT use Passport number), the KTP number will be use to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
+1. Submit Indonesian Identity Card (KTP) number (DO NOT use Passport number), the KTP number will be used to link with Indonesia [Pedulilindungi](https://www.pedulilindungi.id/) app.
 2. Submit Vaccination Certificate from https://www.notarise.gov.sg/.
 3. **_Wait around 14 days for approval_.**
 4. Check approval status at https://vaksinln.dto.kemkes.go.id/ daily.
@@ -65,7 +65,7 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 
 ![Vaccine Certificate](https://user-images.githubusercontent.com/787301/149706649-03e7f19e-6f04-407c-8dfc-df7b49268d12.png)
 
-4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be check upon arrival in Indonesia before Immigration desk.
+4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be checked upon arrival in Indonesia before the Immigration desk.
 
 ![ehac_1](https://user-images.githubusercontent.com/787301/150001218-03f923b9-24a6-46d0-8ee0-072c9deae551.png)
 
@@ -80,7 +80,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 
 1. Ref: https://safetravel.ica.gov.sg/vtl/requirements-and-process.
 2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL.
-3. Wait for few minutes until the VTL approved.
+3. Wait for few a minutes until the VTL approved.
 
 ## 4. Airline Tickets (20 Mins) 🔖
 
@@ -105,7 +105,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![Hotel](https://user-images.githubusercontent.com/787301/149704184-aa46db2b-a181-475d-b954-29bee0da5f3c.png)
 
-4. Hotel staff will request to submit copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
+4. Hotel staff will request to submit a copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
 5. Wait for confirmation from the Hotel.
 
 ![Confirmation](https://user-images.githubusercontent.com/787301/149860662-240dd477-b231-4353-93b3-f7aeabe2525d.png)
@@ -145,7 +145,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![CreditCard](https://user-images.githubusercontent.com/787301/149994418-c92cf03e-c7de-4722-8bc1-9d73b5055b3e.png)
 
-4. Change SGD to IDR in Singapore 📌
+4. Change SGD (Singapore Dollar) to IDR (Indonesian Rupiah) in Singapore. 📌
 
 ![IDR](https://user-images.githubusercontent.com/787301/149947567-f096dd02-5b0e-44cc-a196-490b2c48b23e.png)
 

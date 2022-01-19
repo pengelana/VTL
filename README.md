@@ -32,7 +32,6 @@
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 6. **NOTE:** 
-   - Additional cash (IDR - Indonesian Rupiah). Exchange rate for SGD to IDR inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly" 📌
    - Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia with Credit Card (Visa/Mastercard). 📌
 
 

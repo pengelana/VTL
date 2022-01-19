@@ -32,7 +32,7 @@
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3 - 4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 6. **NOTE:** 
-   - Normally before arrival, Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia with Credit Card (Visa/Mastercard). 📌
+   - Normally before arrival, the Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia using Credit Card (Visa/Mastercard). 📌
 
 
 --- 
@@ -233,7 +233,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 ![Release Letter](https://user-images.githubusercontent.com/787301/149757385-ff8558e2-1a81-4eed-95f5-0f7de96214a5.png)
 
 12. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area. 📌
-13. The **NEGATIVE** COVID-19 PCR result can be use for domestic flight within 3 days of the test.
+13. The **NEGATIVE** COVID-19 PCR result can be used for domestic flight within 3 days of the test.
 14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ART results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
 15. **NOTE:** **NEGATIVE** COVID-19 PCR (Polymerase Chain Reaction) results not required for Indonesia domestic flight, only ART (Antigen Rapid Test) administered by medical professionals. 📌
 
@@ -243,7 +243,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ## 10. Return to Singapore (2 - 3 days) 🛬
 
-1. **NEGATIVE** COVID-19 PCR test two days before arrival to Singapore.
+1. **NEGATIVE** COVID-19 PCR test two days before arrival in Singapore.
 2. Complete [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card), 3 days before flight to Singapore.
 3. Use [Safe Travel Concierge](https://safetravel.changiairport.com/arrivalswabtest/#/) to book on-arrival PCR Test (S$125).
 4. Go to the Airport early (3.5 - 4 hours)
@@ -255,8 +255,8 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 6. Check-in to the departure gate on time ([CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php)).
 7. Drink enough water.
-8. When arrive to Singapore ([Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3), use Automated Immigration Gates. Reduce contact with other people.
-9. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic email to inform about arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, THE EMAIL NEED TO BE **ACKNOWLEDGED**_. ⚠️
+8. When arriving to Singapore ([Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3), use Automated Immigration Gates. Reduce contact with other people.
+9. After exit from Automated Immigration Gates, ICA (Immigration and Checkpoints Authority) will send automatic an email to inform about arrival status, **IMPORTANT:** _DO NOT MISSED THIS EMAIL, THE EMAIL NEED TO BE **ACKNOWLEDGED**_. ⚠️
 10. Complete COVID-19 PCR at the airport and immediately go home with Taxi.
 11. Isolate until COVID-19 PCR test result coming back **NEGATIVE**.
 

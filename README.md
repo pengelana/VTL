@@ -64,7 +64,7 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 2. Register new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with number of Kartu Tanda Penduduk (KTP).
 3. Generate Indonesian "Vaccine Certificate" from [Pedulilindungi](https://www.pedulilindungi.id/).
 
-![Pedulilindungi](https://user-images.githubusercontent.com/787301/150335506-beffeff5-c0da-4bba-8156-b8abcb062d77.png)
+![Pedulilindungi](https://user-images.githubusercontent.com/787301/150337111-044af194-3ca1-4b37-a55b-8742eedabe1f.png)
 
 ![Vaccine Certificate](https://user-images.githubusercontent.com/787301/150335295-52ed781c-edda-411c-b9a1-e8131e754c90.png)
 

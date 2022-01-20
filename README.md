@@ -224,22 +224,22 @@ Every International arrival, starting on 29th November 2021, is required to pres
 1. Arrive at the designated Hotel & Check-in.
 2. Hotel staff will ask to pay all the bills in full.
 3. Prepare to ask the Hotel to deposit some money ("open card", preferred Visa or Mastercard)  S$100 - S$150 will be enough, just in-case need to order food/drinks (room service), without deposit hotel staff will ask to pay each order from room services immediately.
-5. The Hotel will provide 3 meals every day: Breakfast, Lunch and Dinner.
-6. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 PCs each day)
-7. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before the end of quarantine date. 
-8. The Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m. next day).
+4. The Hotel will provide 3 meals every day: Breakfast, Lunch and Dinner.
+5. Daily laundry will be collected in the morning between 8-10 a.m. (3-5 PCs each day)
+6. Hotel staff will inform by phone when is the Exit COVID-19 PCR test, normally one day before the end of quarantine date. 
+7. The Hotel will inform when COVID-19 PCR coming back **NEGATIVE** (before 11 a.m. next day).
 
-![PCR UI](https://user-images.githubusercontent.com/787301/149764512-2080210c-c7b7-4d47-8039-46dd5b0c029c.png)
+![PCR UI](https://user-images.githubusercontent.com/787301/150239688-daf82976-30be-4eb2-a540-9652cfff019d.png)
 
-10. Prepare to checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room. 📌
-11. Checkout from the Hotel, close all the bills, including room services, etc., get a hard copy of the Release Letter. 
+8. Prepare to checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room. 📌
+9. Checkout from the Hotel, close all the bills, including room services, etc., get a hard copy of the Release Letter. 
 
 ![Release Letter](https://user-images.githubusercontent.com/787301/150237164-89de2d08-86c9-457d-a71a-8f592babc1ed.png)
 
-12. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area. 📌
-13. The **NEGATIVE** COVID-19 PCR result can be used for domestic flight within 3 days of the test.
-14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ART results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
-15. **NOTE:** **NEGATIVE** COVID-19 PCR (Polymerase Chain Reaction) results not required for Indonesia domestic flight, only ART (Antigen Rapid Test) administered by medical professionals. 📌
+10. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area. 📌
+11. The **NEGATIVE** COVID-19 PCR result can be used for domestic flight within 3 days of the test.
+12. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ART results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
+13. **NOTE:** **NEGATIVE** COVID-19 PCR (Polymerase Chain Reaction) results not required for Indonesia domestic flight, only ART (Antigen Rapid Test) administered by medical professionals. 📌
 
 ![Antigen Manuhua](https://user-images.githubusercontent.com/787301/150238220-2f0a8a95-ae39-4297-8145-ab182a5e3715.png)
 

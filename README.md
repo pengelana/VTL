@@ -113,7 +113,11 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![D-HOTS](https://user-images.githubusercontent.com/787301/150306447-1bd28dd9-d9b7-4737-a0d2-664963d38525.png)
 
-6. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
+6. Submit Quarantine Hotel Guest Information from the link on the email confirmation.
+
+![Quarantine Hotel Guest Information](https://user-images.githubusercontent.com/787301/150316878-1fa17a07-b5c5-4f94-a608-259c7bd44802.png)
+
+7. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
 
 
 ## 6. Pre-departure COVID-19 PCR Test (2 days) 🌡

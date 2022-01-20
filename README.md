@@ -234,14 +234,14 @@ Every International arrival, starting on 29th November 2021, is required to pres
 10. Prepare to checkout, packing all your belongings and leave the room. **NOTE:** Normally elevator at quarantine floor will be locked, call the hotel reception before leaving the room. 📌
 11. Checkout from the Hotel, close all the bills, including room services, etc., get a hard copy of the Release Letter. 
 
-![Release Letter](https://user-images.githubusercontent.com/787301/149757385-ff8558e2-1a81-4eed-95f5-0f7de96214a5.png)
+![Release Letter](https://user-images.githubusercontent.com/787301/150237164-89de2d08-86c9-457d-a71a-8f592babc1ed.png)
 
 12. **NOTE:** Try to avoid crowded place, stay and eat within the Hotel area. 📌
 13. The **NEGATIVE** COVID-19 PCR result can be used for domestic flight within 3 days of the test.
 14. Verification with the [Pedulilindungi](https://www.pedulilindungi.id/) will be required for each domestic flight, ensure that **NEGATIVE** COVID-19 PCR/ART results appear in the [Pedulilindungi](https://www.pedulilindungi.id/) mobile app.
 15. **NOTE:** **NEGATIVE** COVID-19 PCR (Polymerase Chain Reaction) results not required for Indonesia domestic flight, only ART (Antigen Rapid Test) administered by medical professionals. 📌
 
-![Antigen Manuhua](https://user-images.githubusercontent.com/787301/149759600-594be6e3-b7ab-4dbe-afa9-0667e13d5fa8.png)
+![Antigen Manuhua](https://user-images.githubusercontent.com/787301/150238220-2f0a8a95-ae39-4297-8145-ab182a5e3715.png)
 
 ![Pedulilindungi Airport](https://user-images.githubusercontent.com/787301/149744789-1d06ba94-8d9f-47b9-b41a-c97e66351f29.png)
 

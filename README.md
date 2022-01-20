@@ -255,7 +255,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
    - **NEGATIVE** COVID-19 PCR test.
    - Vaccination Certificate.
 
-![PCR Express](https://user-images.githubusercontent.com/787301/149708675-423e8e48-7bcf-4779-b86e-399f4dd9428b.png)
+![PCR Express](https://user-images.githubusercontent.com/787301/150245852-b8267e33-4c73-441c-a861-71e04ffb60d7.png)
 
 6. Check-in to the departure gate on time ([CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php)).
 7. Drink enough water.

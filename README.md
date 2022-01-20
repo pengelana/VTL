@@ -53,8 +53,8 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 2. Submit Vaccination Certificate from https://www.notarise.gov.sg/.
 3. **_Wait around 14 days for approval_.**
 4. Check approval status at https://vaksinln.dto.kemkes.go.id/ daily.
- 
-![Verification Request](https://user-images.githubusercontent.com/787301/149652065-ba6df3e4-576d-41a1-9fff-a0d26ac7839e.png)
+
+![Verification Request](https://user-images.githubusercontent.com/787301/150431826-481b7091-8d23-4c5b-a1e2-e5f8bee7c440.png)
 
 
 ## 2. [Pedulilindungi](https://www.pedulilindungi.id/) (60 mins) 📱

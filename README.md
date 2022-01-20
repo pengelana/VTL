@@ -72,7 +72,9 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 
 ![ehac_1](https://user-images.githubusercontent.com/787301/150001218-03f923b9-24a6-46d0-8ee0-072c9deae551.png)
 
-![ehac_2](https://user-images.githubusercontent.com/787301/150000572-e8bcd2e0-1b03-4d79-b07c-b6ce1fa9bc49.png)
+![ehac_2](https://user-images.githubusercontent.com/787301/150329623-239b1bf3-2d25-4e56-97e6-eae6ec809ffe.png)
+
+![ehac_3](https://user-images.githubusercontent.com/787301/150331295-2b696963-196a-47d5-b973-f11fff13d011.png)
 
 
 ## 3. Apply VTL (Vaccinated Travel Lane) (60 mins) 📨

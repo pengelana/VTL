@@ -138,7 +138,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
 3. Print hard copy of **NEGATIVE** PCR result.
 
-![PCR](https://user-images.githubusercontent.com/787301/149706269-92b7f684-0a0c-431d-bbf8-e82955820274.png)
+![Minmed](https://user-images.githubusercontent.com/787301/150386581-0fa82337-d09f-48e2-81f7-3c33ab696999.png)
 
 ## 7. Preparations before flight to Indonesia (2-3 days) 📝
 

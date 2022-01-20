@@ -19,7 +19,7 @@
 
 ![notarise_2](https://user-images.githubusercontent.com/787301/149774747-d4ba008b-d10a-4b7e-ac34-70eef80ca7fb.png)
 
-![MOH VC](https://user-images.githubusercontent.com/787301/149710012-971100e2-ea54-4f17-9578-2b30d9a15abf.png)
+![MOH VC](https://user-images.githubusercontent.com/787301/150243603-8037d339-ede0-4890-a94c-21223e41af4e.png)
 
 5. Email address for Vaccination Registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
  

@@ -62,7 +62,7 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 1. Download [Pedulilindungi](https://www.pedulilindungi.id/) app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
 
 2. Register new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with number of Kartu Tanda Penduduk (KTP).
-3. Generate Indonesian "Vaccine Certificate" from [Pedulilindungi](https://www.pedulilindungi.id/).
+3. Generate Indonesian "Vaccine Certificate" from the [Pedulilindungi](https://www.pedulilindungi.id/) app.
 
 ![Pedulilindungi](https://user-images.githubusercontent.com/787301/150337111-044af194-3ca1-4b37-a55b-8742eedabe1f.png)
 

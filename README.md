@@ -64,9 +64,9 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 2. Register new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with number of Kartu Tanda Penduduk (KTP).
 3. Generate Indonesian "Vaccine Certificate" from [Pedulilindungi](https://www.pedulilindungi.id/).
 
-![Pedulilindungi](https://user-images.githubusercontent.com/787301/149706550-4e2eae88-f8c9-4ca2-b71f-4caa9872a9d6.png)
+![Pedulilindungi](https://user-images.githubusercontent.com/787301/150335506-beffeff5-c0da-4bba-8156-b8abcb062d77.png)
 
-![Vaccine Certificate](https://user-images.githubusercontent.com/787301/149706649-03e7f19e-6f04-407c-8dfc-df7b49268d12.png)
+![Vaccine Certificate](https://user-images.githubusercontent.com/787301/150335295-52ed781c-edda-411c-b9a1-e8131e754c90.png)
 
 4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be checked upon arrival in Indonesia before the Immigration desk.
 

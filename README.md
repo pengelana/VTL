@@ -13,7 +13,7 @@
 
 4. Email address:
    - Generate Vaccine Certification with https://www.notarise.gov.sg/.
-   - Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/) 
+   - Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/). 
    - [SG Arrival Card](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card)  with Electronic Health Declaration.
  
 5. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).

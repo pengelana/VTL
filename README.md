@@ -74,14 +74,6 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 
 ![Vaccine Certificate](https://user-images.githubusercontent.com/787301/150335295-52ed781c-edda-411c-b9a1-e8131e754c90.png)
 
-4. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN). e-HAC QR Code automatically generated after submission and will be checked upon arrival in Indonesia before the Immigration desk.
-
-![ehac_1](https://user-images.githubusercontent.com/787301/150001218-03f923b9-24a6-46d0-8ee0-072c9deae551.png)
-
-![ehac_2](https://user-images.githubusercontent.com/787301/150329623-239b1bf3-2d25-4e56-97e6-eae6ec809ffe.png)
-
-![ehac_3](https://user-images.githubusercontent.com/787301/150331295-2b696963-196a-47d5-b973-f11fff13d011.png)
-
 
 ## 3. Apply VTL (Vaccinated Travel Lane) (60 mins) 📨
 
@@ -211,6 +203,15 @@ Every International arrival, starting on 29th November 2021, is required to pres
 14. Medicine: Panadol, Pandol Extra, Pain relief patch/balm etc.
 
 ![Tiger](https://user-images.githubusercontent.com/787301/149879425-46af2649-42d8-4401-93f8-0f1da62907a4.png)
+
+
+15. Submit e-HAC - Indonesia Health Alert Card (KARTU KEWASPADAAN KESEHATAN) from the [Pedulilindungi](https://www.pedulilindungi.id/) app. e-HAC QR Code automatically generated after submission and will be checked upon arrival in Indonesia before the Immigration desk.
+
+![ehac_1](https://user-images.githubusercontent.com/787301/150001218-03f923b9-24a6-46d0-8ee0-072c9deae551.png)
+
+![ehac_2](https://user-images.githubusercontent.com/787301/150329623-239b1bf3-2d25-4e56-97e6-eae6ec809ffe.png)
+
+![ehac_3](https://user-images.githubusercontent.com/787301/150331295-2b696963-196a-47d5-b973-f11fff13d011.png)
 
 
 ## 8. Flight - Changi T3 & Arrive at Jakarta - CGK T3 (6-7 hours) 🛫

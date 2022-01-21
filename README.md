@@ -93,7 +93,7 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
 
-![Singapore Airlines](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
+![Singapore Airlines](https://user-images.githubusercontent.com/787301/150477528-531d5b96-d0eb-45ec-b4ad-c7369edcc6d6.png)
 
 2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX! ❌
 3. [TRAVELOKA](https://www.traveloka.com/) IS NOT [RECOMMENDED](https://www.traveloka.com/en-sg/promotion/vtlflight). ❌

@@ -11,7 +11,7 @@
 2. Indonesian Passport.
 3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 
-![Tracetogeher](https://user-images.githubusercontent.com/787301/150124982-1b0d9333-ceef-4197-abb0-c1ef8771ccc5.png)
+![Tracetogether](https://user-images.githubusercontent.com/787301/150469268-5ea9da8c-a45e-4807-b79e-ffef6e060eba.png)
 
 4. Vaccination Certificate from https://www.notarise.gov.sg/.
 

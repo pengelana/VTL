@@ -21,9 +21,9 @@
 
 ![MOH VC](https://user-images.githubusercontent.com/787301/150243603-8037d339-ede0-4890-a94c-21223e41af4e.png)
 
-5. Email address for Vaccination Registration in Indonesia and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+5. Email address for Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
  
-6. Mobile number for [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+6. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
 
 ## 0.5 Budget 💸
@@ -61,8 +61,14 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 
 1. Download [Pedulilindungi](https://www.pedulilindungi.id/) app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
 
-2. Register new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with number of Kartu Tanda Penduduk (KTP).
-3. Generate Indonesian "Vaccine Certificate" from the [Pedulilindungi](https://www.pedulilindungi.id/) app.
+2. Register new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with email addresss.
+
+
+![pedulilindungi_1](https://user-images.githubusercontent.com/787301/150441299-24ab2f97-d8fc-4889-89c2-b86cc8252f8f.png)
+
+![pedulilindungi_2](https://user-images.githubusercontent.com/787301/150441005-08351105-9b29-4545-a518-6e6e680f2c71.png)
+
+3. Generate Indonesian "Vaccine Certificate" from the [Pedulilindungi](https://www.pedulilindungi.id/) app with a number of Kartu Tanda Penduduk (KTP).
 
 ![Pedulilindungi](https://user-images.githubusercontent.com/787301/150337111-044af194-3ca1-4b37-a55b-8742eedabe1f.png)
 

@@ -9,21 +9,25 @@
 
 1. Kartu Tanda Penduduk (KTP) - Indonesian Identity Card.
 2. Indonesian Passport.
-3. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
+3. [Singpass](https://www.singpass.gov.sg/main) account and [Singpass app](https://app.singpass.gov.sg/) to access https://www.notarise.gov.sg/.
+
+4. Email address for Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+ 
+5. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+
+6. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 
 ![Tracetogether](https://user-images.githubusercontent.com/787301/150469268-5ea9da8c-a45e-4807-b79e-ffef6e060eba.png)
 
-4. Vaccination Certificate from https://www.notarise.gov.sg/.
+7. Generate and download Vaccination Certificate from https://www.notarise.gov.sg/.
 
-![notarise_1](https://user-images.githubusercontent.com/787301/149773733-db22e674-5b4d-498f-a7c0-3acd2af72934.png)
+![notarise_1](https://user-images.githubusercontent.com/787301/150473337-6e3540f3-86a8-482c-a77d-47f7ae39163f.png)
 
-![notarise_2](https://user-images.githubusercontent.com/787301/149774747-d4ba008b-d10a-4b7e-ac34-70eef80ca7fb.png)
+![notarise_2](https://user-images.githubusercontent.com/787301/150474088-5aaa1982-b4d2-40d2-af20-7c5a2e45244f.png)
 
 ![MOH VC](https://user-images.githubusercontent.com/787301/150243603-8037d339-ede0-4890-a94c-21223e41af4e.png)
 
-5. Email address for Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
- 
-6. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+
 
 
 ## 0.5 Budget 💸

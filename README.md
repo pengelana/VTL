@@ -212,7 +212,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![ehac_1](https://user-images.githubusercontent.com/787301/150001218-03f923b9-24a6-46d0-8ee0-072c9deae551.png)
 
-![ehac_2](https://user-images.githubusercontent.com/787301/150329623-239b1bf3-2d25-4e56-97e6-eae6ec809ffe.png)
+![ehac_2](https://user-images.githubusercontent.com/787301/150483668-4ee3b8e4-b379-488c-8e2e-7f90af128d7a.png)
 
 ![ehac_3](https://user-images.githubusercontent.com/787301/150331295-2b696963-196a-47d5-b973-f11fff13d011.png)
 

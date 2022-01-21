@@ -11,7 +11,10 @@
 2. Indonesian Passport.
 3. [Singpass](https://www.singpass.gov.sg/main) account and [Singpass app](https://app.singpass.gov.sg/) to access https://www.notarise.gov.sg/.
 
-4. Email address for Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/) and [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+4. Email address:
+   - Generate Vaccine Certification with https://www.notarise.gov.sg/.
+   - Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/) 
+   - [SG Arrival Card](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card)  with Electronic Health Declaration.
  
 5. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 

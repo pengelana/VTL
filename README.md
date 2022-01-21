@@ -88,13 +88,12 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 ## 4. Airline Tickets (20 Mins) 🔖
 
 1. [SINGAPORE AIRLINES](https://www.singaporeair.com/), Check VTL flight from [Singapore Airlines](https://www.singaporeair.com/en_UK/us/travel-info/vaccinated-travel-lanes/).
+
+![Singapore Airlines](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
+
 2. DO NOT USE GARUDA INDONESIA, THEIR CAPTCHA SUX! ❌
 3. [TRAVELOKA](https://www.traveloka.com/) IS NOT [RECOMMENDED](https://www.traveloka.com/en-sg/promotion/vtlflight). ❌
 
-
-**_SINGAPORE AIRLINES VTL_**
-
-![Singapore Airlines](https://user-images.githubusercontent.com/787301/149655341-8408590e-3f1c-459d-8e1c-9ab3ba6c77ae.png)
 
 ## 5. Quarantine Hotel in Indonesia (2-3 days) 🏨
 

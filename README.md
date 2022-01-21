@@ -118,7 +118,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 6. Submit Quarantine Hotel Guest Information from the link on the email confirmation.
 
-![Quarantine Hotel Guest Information](https://user-images.githubusercontent.com/787301/150438187-6d22172a-88ee-4840-bb14-a7ebf512cfdf.png)
+![Quarantine Hotel Guest Information](https://user-images.githubusercontent.com/787301/150517753-a8d057d0-4970-45f9-bd03-f7bae02c7648.png)
 
 7. **NOTE:** Choose Hotel with International Accredited (e.g https://all.accor.com/id/city/hotel-jakarta-v5213.shtml), near to the Highway, in-case needed to continue journey with Domestic flight after quarantine period.
 

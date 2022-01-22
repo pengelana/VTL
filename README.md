@@ -15,7 +15,7 @@
    - To Generate Vaccine Certification with https://www.notarise.gov.sg/.
    - Apply VTP (Vaccinated Travel Pass) for [Long Term Visit Pass](https://www.mom.gov.sg/passes-and-permits).
    - Register Vaccination status in Indonesia.
-   - Create a new account on the [Pedulilindungi](https://www.pedulilindungi.id/) (Indonesian version of [Tracetogher](https://www.tracetogether.gov.sg/)).
+   - Create a new account on the [Pedulilindungi](https://www.pedulilindungi.id/) (Indonesian [Tracetogher](https://www.tracetogether.gov.sg/)).
    - Submit [SG Arrival Card  with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
  
 5. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).

@@ -44,11 +44,10 @@
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3-4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 
-6. ~~6-Days ART after arriving in Singapore:~~
+6. 6-Days ART after arriving in Singapore:
    -  ~~[Unsupervised self-administered ART](https://go.gov.sg/bca-self-art-eng) on Days 2, 4, 5 and 6 ([S$26.40](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-5-test-kit/p/620628) for 5 Test Kit)~~
    -  ~~Supervised ART on Days 3 and 7 ($15 per test).~~
-
-![UPDATE](https://user-images.githubusercontent.com/787301/150646589-9a591d92-d8b3-41c9-87ae-7fcdcdf97348.png)
+   -  From 24 January 2022: Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation. ([$5.70](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-1-test-kit/p/620626) for 1 Test Kit).
 
 https://safetravel.ica.gov.sg/vtl/requirements-and-process
    

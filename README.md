@@ -47,7 +47,7 @@
 6. 6-Days ART after arriving in Singapore:
    -  ~~[Unsupervised self-administered ART](https://go.gov.sg/bca-self-art-eng) on Days 2, 4, 5 and 6 ([S$26.40](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-5-test-kit/p/620628) for 5 Test Kit)~~
    -  ~~Supervised ART on Days 3 and 7 ($15 per test).~~
-   -  From 24 January 2022: Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation. ([$5.70](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-1-test-kit/p/620626) for 1 Test Kit).
+   -  From 24 January 2022: Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation. ([$5.70](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-1-test-kit/p/620626) per Test Kit).
 
 https://safetravel.ica.gov.sg/vtl/requirements-and-process
    

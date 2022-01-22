@@ -44,11 +44,15 @@
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3-4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
 
-6. 6-Days ART after arriving in Singapore:
-   -  [Unsupervised self-administered ART](https://go.gov.sg/bca-self-art-eng) on Days 2, 4, 5 and 6 ([S$26.40](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-5-test-kit/p/620628) for 5 Test Kit)
-   -  Supervised ART on Days 3 and 7 ($15 per test).
+6. ~~6-Days ART after arriving in Singapore:~~
+   -  ~~[Unsupervised self-administered ART](https://go.gov.sg/bca-self-art-eng) on Days 2, 4, 5 and 6 ([S$26.40](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-5-test-kit/p/620628) for 5 Test Kit)~~
+   -  ~~Supervised ART on Days 3 and 7 ($15 per test).~~
 
-8. **NOTE:** 
+![UPDATE](https://user-images.githubusercontent.com/787301/150646589-9a591d92-d8b3-41c9-87ae-7fcdcdf97348.png)
+
+https://safetravel.ica.gov.sg/vtl/requirements-and-process
+   
+. **NOTE:** 
    - Normally before arrival, the Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia using Credit Card (Visa/Mastercard). 📌
    - Exchange rate for SGD (Singapore Dollar) to IDR (Indonesian Rupiah) inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly". Change SGD to IDR before going to Changi Airport. 📌
 

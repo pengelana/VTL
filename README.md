@@ -18,7 +18,7 @@
    - Create a new account on the [Pedulilindungi](https://www.pedulilindungi.id/) (Indonesian [Tracetogher](https://www.tracetogether.gov.sg/)).
    - Submit [SG Arrival Card  with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
  
-5. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
+5. Mobile number to submit [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
 6. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 

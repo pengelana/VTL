@@ -9,12 +9,12 @@
 
 1. Kartu Tanda Penduduk (KTP) - Indonesian Identity Card.
 2. Indonesian Passport.
-3. [Singpass](https://www.singpass.gov.sg/main) account and [Singpass app](https://app.singpass.gov.sg/) to access https://www.notarise.gov.sg/.
+3. [Singpass](https://www.singpass.gov.sg/main) account and [Singpass app](https://app.singpass.gov.sg/) to access Singapore Government e-services.
 
 4. Email address:
-   - Generate Vaccine Certification with https://www.notarise.gov.sg/.
-   - Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/). 
-   - [SG Arrival Card](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card)  with Electronic Health Declaration.
+   - To Generate Vaccine Certification with https://www.notarise.gov.sg/.
+   - Access Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/). 
+   - Submit [SG Arrival Card  with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
  
 5. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
@@ -79,7 +79,10 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 
 ![Pedulilindungi](https://user-images.githubusercontent.com/787301/150337111-044af194-3ca1-4b37-a55b-8742eedabe1f.png)
 
-![Vaccine Certificate](https://user-images.githubusercontent.com/787301/150335295-52ed781c-edda-411c-b9a1-e8131e754c90.png)
+
+![image](https://user-images.githubusercontent.com/787301/150621830-3e97dcf1-d5eb-46fc-a039-24423a1501de.png)
+
+![image](https://user-images.githubusercontent.com/787301/150621855-530e8b5a-fe70-46ec-a60a-38e96caae687.png)
 
 
 ## 3. Apply VTL (Vaccinated Travel Lane) (60 mins) 📨

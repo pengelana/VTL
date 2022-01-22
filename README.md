@@ -37,7 +37,7 @@
 
 ## 0.5 Budget 💸
 
-1. Pre-departure COVID-19 PCR (Polymerase Chain Reaction) between S$110 to S$180 from Singapore to Indonesia.
+1. Pre-departure COVID-19 PCR (Polymerase Chain Reaction) between S$98 to S$180 from Singapore to Indonesia.
 2. [Flight Ticket](https://www.singaporeair.com/en_UK/sg/travel-info/vaccinated-travel-lanes/) with return flight from Singapore to Indonesia between S$300 to S$600.
 3. [Quarantine Hotel](https://quarantinehotelsjakarta.com/) S$900 - [S$6000](https://quarantinehotelsjakarta.com/hotels.html?city=&hname=&star[]=5&sortby=0) (https://quarantinehotelsjakarta.com/).
 

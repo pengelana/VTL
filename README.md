@@ -47,11 +47,9 @@
 6. 6-Days ART after arriving in Singapore:
    -  ~~[Unsupervised self-administered ART](https://go.gov.sg/bca-self-art-eng) on Days 2, 4, 5 and 6 ([S$26.40](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-5-test-kit/p/620628) for 5 Test Kit)~~
    -  ~~Supervised ART on Days 3 and 7 ($15 per test).~~
-   -  From 24 January 2022: Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation. ([$5.70](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-1-test-kit/p/620626) per Test Kit).
-
-https://safetravel.ica.gov.sg/vtl/requirements-and-process
+   -  **From 24 January 2022:** VTL (Air) travellers entering Singapore only be required to undergo daily Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation. ([$5.70](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-1-test-kit/p/620626) per Test Kit).
    
-. **NOTE:** 
+7. **NOTE:** 
    - Normally before arrival, the Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia using Credit Card (Visa/Mastercard). 📌
    - Exchange rate for SGD (Singapore Dollar) to IDR (Indonesian Rupiah) inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly". Change SGD to IDR before going to Changi Airport. 📌
 

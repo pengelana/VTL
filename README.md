@@ -32,10 +32,6 @@
 
 ![Notarise_email](https://user-images.githubusercontent.com/787301/150629995-613defd4-015b-4a6b-9399-8f5dde6bf2ee.png)
 
-![Notarise_VC](https://user-images.githubusercontent.com/787301/150243603-8037d339-ede0-4890-a94c-21223e41af4e.png)
-
-
-
 
 ## 0.5 Budget 💸
 

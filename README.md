@@ -13,7 +13,9 @@
 
 4. Email address:
    - To Generate Vaccine Certification with https://www.notarise.gov.sg/.
-   - Access Vaccination Registration in Indonesia with [Pedulilindungi](https://www.pedulilindungi.id/). 
+   - Apply VTP (Vaccinated Travel Pass) for [Long Term Visit Pass](https://www.mom.gov.sg/passes-and-permits).
+   - Register Vaccination status in Indonesia.
+   - Create a new account on the [Pedulilindungi](https://www.pedulilindungi.id/) (Indonesian version of [Tracetogher](https://www.tracetogether.gov.sg/)).
    - Submit [SG Arrival Card  with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
  
 5. Mobile number for [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
@@ -68,7 +70,7 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 
 1. Download [Pedulilindungi](https://www.pedulilindungi.id/) app from [Apple App Store](https://apps.apple.com/us/app/pedulilindungi/id1504600374) or [Google Playstore](https://play.google.com/store/apps/details?id=com.telkom.tracencare&hl=en_SG&gl=US).
 
-2. Register new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with email addresss.
+2. Create a new account on the [Pedulilindungi](https://www.pedulilindungi.id/) app with email addresss.
 
 
 ![pedulilindungi_1](https://user-images.githubusercontent.com/787301/150441299-24ab2f97-d8fc-4889-89c2-b86cc8252f8f.png)
@@ -95,8 +97,8 @@ ONLY FOR [LONG-TERM VISIT PASS](https://www.mom.gov.sg/passes-and-permits) ⚠�
 **_Singapore PR (Singapore Permanent Resident), continue to 4_** ⚠️
 
 1. Ref: https://safetravel.ica.gov.sg/vtl/requirements-and-process.
-2. Apply VTL at https://eservices.ica.gov.sg/STO1/VTL.
-3. Wait for a few minutes until the VTL approved.
+2. Apply VTP (Vaccinated Travel Pass) at https://eservices.ica.gov.sg/STO1/VTL.
+3. Wait until the VTP approved.
 
 ## 4. Airline Tickets (20 Mins) 🔖
 

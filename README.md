@@ -30,7 +30,9 @@
 
 ![notarise_2](https://user-images.githubusercontent.com/787301/150474088-5aaa1982-b4d2-40d2-af20-7c5a2e45244f.png)
 
-![MOH VC](https://user-images.githubusercontent.com/787301/150243603-8037d339-ede0-4890-a94c-21223e41af4e.png)
+![Notarise_email](https://user-images.githubusercontent.com/787301/150629995-613defd4-015b-4a6b-9399-8f5dde6bf2ee.png)
+
+![Notarise_VC](https://user-images.githubusercontent.com/787301/150243603-8037d339-ede0-4890-a94c-21223e41af4e.png)
 
 
 

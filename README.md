@@ -43,7 +43,12 @@
 
 4. Pre-departure COVID-19 PCR test from Indonesia to Singapore between S$30 (Normal PCR, 24 hours) - S$200 (Express PCR test, 3-4 hours).
 5. [On-Arrival PCR test at Changi](https://safetravel.changiairport.com/arrivalswabtest/#/) S$125.
-6. **NOTE:** 
+
+6. 6-Days ART after arriving in Singapore:
+   -  [Unsupervised self-administered ART](https://go.gov.sg/bca-self-art-eng) on Days 2, 4, 5 and 6 ([S$26.40](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-5-test-kit/p/620628) for 5 Test Kit)
+   -  Supervised ART on Days 3 and 7 ($15 per test).
+
+8. **NOTE:** 
    - Normally before arrival, the Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia using Credit Card (Visa/Mastercard). 📌
    - Exchange rate for SGD (Singapore Dollar) to IDR (Indonesian Rupiah) inside [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3 is not "friendly". Change SGD to IDR before going to Changi Airport. 📌
 
@@ -299,8 +304,9 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 1. https://www.mfa.gov.sg/countries-regions/i/indonesia/travel-page
 2. https://safetravel.ica.gov.sg/
-3. https://kemlu.go.id/losangeles/en/news/11727/update-indonesia-travel-restrictions
-4. https://kemlu.go.id/singapore/en/read/faq-selama-wabah-covid-19-bagi-wni-dan-wna-yang-akan-ke-indonesia/1047/important-information
+3. https://safetravel.ica.gov.sg/vtl/travel-checklist
+4. https://kemlu.go.id/losangeles/en/news/11727/update-indonesia-travel-restrictions
+5. https://kemlu.go.id/singapore/en/read/faq-selama-wabah-covid-19-bagi-wni-dan-wna-yang-akan-ke-indonesia/1047/important-information
 
 # END 🔚
 

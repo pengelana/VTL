@@ -178,12 +178,12 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 6. [Power Bank](https://shopee.sg/shop/17628187/search?shopCollection=12770138) to charge mobile/tablet etc.
 
-![Powerbank](https://user-images.githubusercontent.com/787301/149817716-a83684e7-2a8f-49e5-ba16-8c63dd4bf9ce.png)
- 
   - Lithium battery must [not exceed 160 Wh](https://www.coolblue.be/en/advice/which-power-bank-can-you-take-on-the-plane.html).
   - Each passenger can carry a maximum of 2 spare lithium batteries of [100-160Wh into the cabin](https://www.coolblue.be/en/advice/which-power-bank-can-you-take-on-the-plane.html).
-  
   - Ref: https://www.singaporeair.com/en_UK/sg/travel-info/baggage/baggage-restrictions/
+
+![Powerbank](https://user-images.githubusercontent.com/787301/149817716-a83684e7-2a8f-49e5-ba16-8c63dd4bf9ce.png)
+ 
  
 7. Power Adaptor Plug from [3-pin (Singapore/UK) to European 2-pin](https://shopee.sg/Adaptor-Plug-Adapter-3-Pin-UK-To-EU-Euro-Europe-European-2-Pin-Portable-For-Travel-i.271696626.5245031447?gclid=CjwKCAiAxJSPBhAoEiwAeO_fP6Tpz-7_yLgUbvaviD1jCYSovcdh8AB-c8_FNw2cnrPhsCGITublrRoChyMQAvD_BwE).
 

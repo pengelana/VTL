@@ -20,7 +20,10 @@
  
 5. Mobile number to submit [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
-6. Fully Vaccinated in Singapore with (2x doses of Pfizer-BioNTech/COMIRNATY/Moderna, or 3x doses of Sinovac-CoronaVac), booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
+6. Fully Vaccinated in Singapore with:
+   - 2x doses of Pfizer-BioNTech/COMIRNATY/Moderna
+   - 3x doses of Sinovac-CoronaVac 
+   - **NOTE:** Booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 
 ![Tracetogether](https://user-images.githubusercontent.com/787301/150469268-5ea9da8c-a45e-4807-b79e-ffef6e060eba.png)
 
@@ -145,6 +148,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 1. Make appointment for Pre-departure [COVID-19 PCR test 2 days before flight to Indonesia](https://kemlu.go.id/singapore/en/read/faq-selama-wabah-covid-19-bagi-wni-dan-wna-yang-akan-ke-indonesia/1047/important-information).
 
    - https://mainlymiles.com/2022/01/04/cheapest-pre-departure-covid-19-pcr-and-art-tests-in-singapore/
+   - https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers
 
 2. List of MOH-Approved COVID-19 Test Providers:
    https://www.moh.gov.sg/licensing-and-regulation/regulations-guidelines-and-circulars/details/list-of-covid-19-swab-providers

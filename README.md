@@ -270,7 +270,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![Antigen Manuhua](https://user-images.githubusercontent.com/787301/150238220-2f0a8a95-ae39-4297-8145-ab182a5e3715.png)
 
-![Pedulilindungi Airport](https://user-images.githubusercontent.com/787301/150667176-5362b065-0f2c-4664-820e-39558551d521.png)
+![Pedulilindungi Airport](https://user-images.githubusercontent.com/787301/150667503-840d1cbe-5508-472d-9b4b-8486ef5c1563.png)
 
 
 ## 10. Return to Singapore (2-3 days) 🛬

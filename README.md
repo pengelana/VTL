@@ -21,8 +21,8 @@
 5. Mobile number to submit [SG Arrival Card with Electronic Health Declaration](https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card).
 
 6. Fully Vaccinated in Singapore with:
-   - 2x doses of Pfizer-BioNTech/COMIRNATY/Moderna
-   - 3x doses of Sinovac-CoronaVac 
+   - 2x doses of Pfizer-BioNTech/COMIRNATY/Moderna.
+   - 3x doses of Sinovac-CoronaVac/Sinopharm/Novavax.
    - **NOTE:** Booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 
 ![Tracetogether](https://user-images.githubusercontent.com/787301/150469268-5ea9da8c-a45e-4807-b79e-ffef6e060eba.png)

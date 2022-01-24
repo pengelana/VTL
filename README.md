@@ -25,7 +25,7 @@
    - 3x doses of Sinovac-CoronaVac/Sinopharm/Novavax.
    - **NOTE:** Booster dose probably will be required in the future to keep Fully Vaccinated status in Indonesia.
 
-![Tracetogether](https://user-images.githubusercontent.com/787301/150469268-5ea9da8c-a45e-4807-b79e-ffef6e060eba.png)
+![Tracetogether](https://user-images.githubusercontent.com/787301/150844326-f4db08be-5f48-4c41-94de-ce3598a4d186.png)
 
 7. Generate and download Vaccination Certificate from https://www.notarise.gov.sg/.
 

@@ -50,7 +50,7 @@
 6. 6-Days ART after arriving in Singapore:
    -  ~~[Unsupervised self-administered ART](https://go.gov.sg/bca-self-art-eng) on Days 2, 4, 5 and 6 ([S$26.40](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-5-test-kit/p/620628) for 5 Test Kit)~~
    -  ~~Supervised ART on Days 3 and 7 ($15 per test).~~
-   -  **From 24 January 2022:** VTL (Air) travellers entering Singapore only be required to undergo daily Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation. ([$5.70](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-1-test-kit/p/620626) per Test Kit).
+   -  **From 24 January 2022:** VTL (Air) travellers entering Singapore only be required to undergo daily Unsupervised self-administered ARTs from Day 2 to Day 7 of their arrival if they need to leave their place of accommodation. ([S$5.70](https://www.guardian.com.sg/spdhsa-approved-sd-biosensor-standard-q-covid-19-ag-home-test-1-test-kit/p/620626) per Test Kit).
    
 7. **NOTE:** 
    - Normally before arrival, the Hotel will ask to pay deposit to keep hotel booking. Informed the Hotel that the payment will be made upon arrival in Indonesia using Credit Card (Visa/Mastercard). 📌
@@ -236,17 +236,17 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 1. Arrive early to [Changi](https://www.changiairport.com/en/maps.html#18.5/1.3550017/103.9885069/-67) Terminal 3, estimate 3-3.5 hours before flight.
 2. Expect to be in the queue, preparing a hard copy of Vaccine Certificate and **NEGATIVE** Pre-departure COVID-19 PCR test to be checked by Airline staff.
-3. The Immigration officer will ask to remove the mask to verify the Passport photo and passenger face.
+3. The Immigration officer will ask to remove mask to verify the Passport photo and passenger face.
 4. Arrive at the departure gate early, drink enough water.
-5. Once again the airline staff will ask to remove the mask to verify the Passport photo and passenger face.
-6. **NOTE:** It is better not to wear an N95 mask before final check, otherwise it will be difficult to remove the mask and wear it again.📌
+5. Once again the airline staff will ask to remove mask to verify the Passport photo and passenger face.
+6. **NOTE:** It is better not to wear an N95 mask before final check, otherwise it will be difficult to remove mask and wear it again.📌
 7. **NOTE:** Wear an N95 mask after Final check by Airline staff.📌
 8. Boarding to the plane and ready to go, Bon Voyage!
 9. Flight will take between 1.5-2 hours.
 10. Arrived in Indonesia, [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php).
 11. **NOTE:** Locate a toilet inside [CGK Terminal 3](https://www.jakarta-airport.com/terminal-3.php) Arrival Hall, clear the bladder, there is no toilet after Customs clearance. ⚠️ 
 12. Follow instruction for Vaccine check, on-arrival COVID-19 PCR, Immigration clearance, baggage pickup, Customs clearance. 
-13. Each person will be asked to remove the mask again to compare with the Passport photo upon arrival.
+13. Each person will be asked to remove mask again to compare with the Passport photo upon arrival.
 14. Look for the Hotel assistant and wait around 1.5-2.5 hours for **NEGATIVE** COVID-19 PCR result.
 15. Once the COVID-19 PCR result is received with **NEGATIVE** result, Hotel transport will send to the Hotel for quarantine.
 

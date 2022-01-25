@@ -219,7 +219,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![image](https://user-images.githubusercontent.com/787301/149888432-602e5761-1287-463f-86bd-9ce0fa73cfdd.png)
 
-14. Medicine: Panadol, Pandol Extra, Pain relief patch/balm etc.
+14. Medicine: Panadol, Panadol Extra, Pain relief patch/balm etc.
 
 ![Tiger](https://user-images.githubusercontent.com/787301/149879425-46af2649-42d8-4401-93f8-0f1da62907a4.png)
 

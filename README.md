@@ -72,8 +72,9 @@ Register vaccination status at https://vaksinln.dto.kemkes.go.id/.
 3. **_Wait around 14 days for approval_.**
 4. Check approval status at https://vaksinln.dto.kemkes.go.id/ daily.
 
-![Verification Request](https://user-images.githubusercontent.com/787301/150431826-481b7091-8d23-4c5b-a1e2-e5f8bee7c440.png)
+![Email Verification Request](https://user-images.githubusercontent.com/787301/150931739-63a39c41-1fc4-4b7a-8dc3-b4ac003bbe03.png)
 
+![Verification Request](https://user-images.githubusercontent.com/787301/150431826-481b7091-8d23-4c5b-a1e2-e5f8bee7c440.png)
 
 ## 2. [Pedulilindungi](https://www.pedulilindungi.id/) (60 mins) 📱
 
@@ -131,7 +132,7 @@ Every International arrival, starting on 29th November 2021, is required to pres
 
 ![Hotel](https://user-images.githubusercontent.com/787301/149704184-aa46db2b-a181-475d-b954-29bee0da5f3c.png)
 
-4. Hotel staff will request to submit a copy of Passport, Vaccination Certificate from https://www.notarise.gov.sg/ via Email.
+4. Hotel staff will request to submit a copy of Passport and Vaccination Certificate in PDF/JPG format via Email.
 5. Wait for confirmation from the Hotel.
 
 ![D-HOTS](https://user-images.githubusercontent.com/787301/150306447-1bd28dd9-d9b7-4737-a0d2-664963d38525.png)
